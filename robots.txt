@@ -1,1 +1,1 @@
-Sitemap: https://ArthurCheib.github.io/implementation-pck/sitemap.xml
+Sitemap: https://ArthurCheib.github.io/gepd-implementation-pck/sitemap.xml
