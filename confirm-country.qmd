@@ -4,12 +4,10 @@ format: html
 editor: visual
 ---
 
-## What is this step about?
-
-## Why is it important?
+## More about this
 
 ## Step-by-step Guide:
 
 To begin, make sure you download this PDF:
 
-[Download PDF](/Users/arthursilvacheib/Documents/GitHub/gepd-implementation-pck/websites-materials/GEPD Technical Note.pdf){.btn .btn-primary}
+[Download PDF](https://raw.githubusercontent.com/ArthurCheib/gepd-implementation-pck/main/websites-materials/GEPD%20Technical%20Note.pdf){.btn .btn-primary}
