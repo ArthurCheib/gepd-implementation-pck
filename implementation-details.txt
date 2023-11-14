@@ -1,0 +1,41 @@
+Step 1: Confirming Country's Participation
+This process involves presenting the GEPD initiative to the Ministry of Education, addressing concerns, and obtaining a signed agreement.
+
+
+Step 2: Selecting Sample
+This involves selecting the representative samples of schools and public officials that will be surveyed. Once the government has provided the relevant databases, sampling is done quickly
+
+
+Step 3: Obtaining Approvals
+Depending on the country, some approvals might need to be obtained prior to field work. The most common is the approval by the country’s ethical review board.
+
+
+Step 4: Procuring Survey Firm
+For all GEPD countries in the 1st phase, survey firms have been procured via competitive bid processes. For WBG procurement, this process takes about eight weeks.
+
+
+Step 5: Preparing Field Work
+This process is mostly led by a survey firm, with some readily available inputs from the WBG. The process involves developing the field plan based on the sample and translating the instruments (if not already available).
+
+
+Step 6: Training Enumerators and Piloting
+For 1.5 weeks, enumerators will be trained on the School Survey and the Survey of Public Officials. The training will be led by a WB consultant. A field pilot will follow the training. At this time, the consultant who will conduct the Policy Survey will also be identified.
+
+
+Step 7: Data Collection
+The process entails four weeks of fieldwork. This effort is led by the survey firm, using survey tools provided by the WBG and with close monitoring by WBG staff. In parallel, the consultant identified for the Policy Survey will compile data on the policy framework
+
+
+Step 8: Computing Indicators
+As the data comes in electronically in real time through Survey Solutions, indicators are computed
+right away. Ready-to-use programming to clean and process data and calculate indicators is available in R and Stata. The process is completely automated and has built-in data quality checks.
+
+
+Step 9: Validating the Results
+A key aspect of the GEPD work is country ownership. For this reason, a stakeholder validation session is held with country public officials to validate the information collected
+before it is shared.
+
+
+Step 10: Publishing the Data
+After data has been collected, processed, and validated, the aggregate-level indicators and sub-indicators are published on the GEPD site. Data is presented in a way that allows cross-country comparisons and tracking of progress (in the case of repeat surveys).
+

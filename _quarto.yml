@@ -1,0 +1,32 @@
+project: 
+  type: website
+  
+website:
+  title: 'GEPD \n Implementation Package'
+  back-to-top-navigation: true
+  page-navigation: true
+  page-footer: 'Copyright 2023, Global Education Policy Dashboard'
+  sidebar: 
+    background: info
+    type: 'dark'
+    search: true
+    style: 'docked'
+    contents:
+      - section: 'Introduction'
+        contents: 
+          - index.qmd
+          - package.qmd
+      - section: 'Implementation Package'
+        contents:
+          - intro.qmd
+          - confirm-country.qmd
+          - select-sample.qmd
+          - approvals.qmd
+          - survey-firm.qmd
+          - field-work.qmd
+          - enumerators.qmd
+          - data-collection.qmd
+          - computing.qmd
+          - validation.qmd
+          - publishing.qmd
+      

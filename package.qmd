@@ -1,0 +1,13 @@
+---
+title: "Why an Implementation Package?"
+format: html
+editor: visual
+---
+
+## Dashboard 2.0: the Implementation Package
+
+After thirteen implementations of the Global Education Policy Dashboard, all of which happened with a close partnership with regional teams, the central team is excited to present this **Implementation Package.** It is a comprehensive toolkit that aids in deploying the GEPD's innovative instruments -- the School Survey, Policy Survey, and Survey of Public Officials -- with efficiency and effectiveness. It aims to equip local teams with step-by-step guides, practical tools, and all necessary resources for seamless data collection and analysis.
+
+The **goal** **of the Package** is to empower local teams with the means to illuminate the often-unseen drivers of learning outcomes, turning insights into actionable strategies for educational advancement. It gives structured guidance throughout the entire process of school visits, classroom observations, and all the moments of engaging with educational stakeholders, ensuring that the GEPD can be implemented with precision and minimal complexity.
+
+![Step-by-step GEPD Implementation](images/ten-steps-implementation.png){fig-align="center"}
