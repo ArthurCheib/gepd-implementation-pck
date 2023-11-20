@@ -18,15 +18,14 @@ website:
           - package.qmd
       - section: 'Implementation Package'
         contents:
-          - intro.qmd
-          - confirm-country.qmd
-          - select-sample.qmd
-          - approvals.qmd
-          - survey-firm.qmd
-          - field-work.qmd
-          - enumerators.qmd
-          - data-collection.qmd
-          - computing.qmd
-          - validation.qmd
-          - publishing.qmd
+          - s1_confirm-country.qmd
+          - s2_select-sample.qmd
+          - s3_approvals.qmd
+          - s4_survey-firm.qmd
+          - s5_field-work.qmd
+          - s6_enumerators.qmd
+          - s7_data-collection.qmd
+          - s8_computing.qmd
+          - s9_validation.qmd
+          - s10_publishing.qmd
       

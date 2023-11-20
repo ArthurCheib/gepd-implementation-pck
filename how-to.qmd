@@ -1,5 +1,0 @@
----
-title: "How-to: Implementation"
-format: html
-editor: visual
----
