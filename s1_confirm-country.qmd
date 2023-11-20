@@ -25,18 +25,14 @@ In this phase, the focus shifts to the TTL **arranging an initial meeting with k
 Once the initial meeting is set, the TTL prepares to lead the discussion with a structured approach. The suggested agenda for the meeting is for it to start with a 20-minute presentation on the GEPD, utilizing the provided sample presentation -- of course, this presentation needs to be tailored for the country in question. The presentation aims to give a comprehensive overview of the Dashboard's functionality and benefits. Following the presentation, the TTL dedicates the remaining time to address various key aspects, such as:
 
 -   Responding to questions about the project's scope, objectives, and potential impact.​
-
 -   Discussing the specifics of the implementation process.​
-
 -   Detailing the requirements from the country: ​
-
     -   Appointing a focal point​;
-
     -   Providing necessary information for sampling​;
-
     -   Understanding the required approvals documents.
-
 -   Aiming to confirm the country\'s participation in the GEPD 
+
+***Resources Available for Download at substep 1.3:*** [Sample Presentations](https://github.com/ArthurCheib/gepd-implementation-pck/raw/main/websites-materials/step-1/SB3_GEPD%20Presentations.zip){.btn .btn-primary} [Meeting's FAQ](https://github.com/ArthurCheib/gepd-implementation-pck/raw/main/websites-materials/step-1/SB3_FAQ%20-%20Initial%20Meeting.docx){.btn .btn-primary}
 
 ### 1.4 - Next Steps Email - following-up after Initial Meeting
 
