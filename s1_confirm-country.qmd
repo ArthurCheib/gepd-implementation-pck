@@ -4,25 +4,25 @@ format: html
 editor: visual
 ---
 
-## **About this phase:**
+## About this phase:
 
 Step 1's primary goal **is to secure a country's participation in the Global Education Policy Dashboard (GEPD)**. This process begins with identifying a potential need for the GEPD in a country and then arranging and conducting an initial meeting to present the Dashboard's capabilities. A follow-up email is sent post-meeting to confirm participation and outline the next steps and most immediate actions required. Finally, once participation is confirmed, the TTL coordinates communication accordingly, guaranteeing the necessary information exchange for the project advancement.
 
-## **Step-by-step:**
+## Step-by-step:
 
-### 1.1 - Opportunity Window: Identifying a need for the Dashboard
+#### **1.1 - Opportunity Window: Identifying a need for the Dashboard**
 
 At this moment, the task is to pinpoint a specific need within a country that the GEPD can effectively address. This process might involve analyzing situations where the Dashboard can serve as a potent solution. These needs can be identified proactively by investigating the country's education policy landscape or in response to a direct request from the country. The goal is to establish the GEPD as a fitting tool that aligns with the country's educational objectives and challenges.
 
-### 1.2 - Requesting an Initial Meeting
+#### **1.2 - Requesting an Initial Meeting**
 
-In this phase, the focus shifts to the TTL **arranging an initial meeting with key stakeholders in the potential counterpart country**. This meeting is planned to last 60-90 minutes, and is intended to delve deeper into the Dashboard's capabilities and relevance to the country's needs. Preparation for this meeting involves sending a well-crafted introductory email to the country's representatives, accompanied by essential resources, which includes the Implementation Brief and the Reference Guide. These documents should provide more details on the Dashboard, illustrating its capacity to meet the country's specific data requirements.
+In this phase, the focus shifts to the TTL arranging an initial meeting with key stakeholders in the potential counterpart country. This meeting is planned to last 60-90 minutes, and is intended to delve deeper into the Dashboard's capabilities and relevance to the country's needs. Preparation for this meeting involves sending a well-crafted introductory email to the country's representatives, accompanied by essential GEPD's resources. These documents should provide more details on the Dashboard, illustrating its capacity to meet the country's specific data requirements.
 
-***Resources Available for Download at substep 1.2:*** [Implementation Brief](https://raw.github.com/ArthurCheib/gepd-implementation-pck/main/websites-materials/step-1/SB2_GEPD%20Implementation%20Brief.pdf){.btn .btn-primary} [Reference Guide](https://raw.github.com/ArthurCheib/gepd-implementation-pck/main/websites-materials/step-1/SB2_GEPD%20Reference%20Guide.pdf){.btn .btn-primary} [Sample Email](https://github.com/ArthurCheib/gepd-implementation-pck/raw/main/websites-materials/step-1/SB2_Sample%20Email%20-%20Requesting%20initial%20meeting.docx){.btn .btn-primary}
+***Resources Available for Download at substep 1.2:*** [Implementation Brief](https://github.com/ArthurCheib/gepd-implementation-pck/raw/main/websites-materials/step-1/SB2_GEPD%20Implementation%20Brief.zip){.btn .btn-primary} [Reference Guide](https://github.com/ArthurCheib/gepd-implementation-pck/raw/main/websites-materials/step-1/SB2_GEPD%20Reference%20Guide.zip){.btn .btn-primary} [Sample Email](https://github.com/ArthurCheib/gepd-implementation-pck/raw/main/websites-materials/step-1/SB2_Sample%20Email%20-%20Requesting%20initial%20meeting.docx){.btn .btn-primary}
 
-### 1.3 - Conducting the Meeting
+#### **1.3 - Conducting the Meeting**
 
-Once the initial meeting is set, the TTL prepares to lead the discussion with a structured approach. The suggested agenda for the meeting is for it to start with a 20-minute presentation on the GEPD, utilizing the provided sample presentation -- of course, this presentation needs to be tailored for the country in question. The presentation aims to give a comprehensive overview of the Dashboard's functionality and benefits. Following the presentation, the TTL dedicates the remaining time to address various key aspects, such as:
+Once the initial meeting is set, the TTL prepares to lead the discussion. The suggested agenda for the meeting is for it to start with a 20-minute presentation on the GEPD, utilizing the provided sample presentation, which needs to be tailored for the country in question. The presentation aims to give a comprehensive overview of the Dashboard's functionality and benefits. Following the presentation, the TTL dedicates the remaining time to address various key aspects, such as:
 
 -   Responding to questions about the project's scope, objectives, and potential impact.​
 -   Discussing the specifics of the implementation process.​
@@ -30,10 +30,30 @@ Once the initial meeting is set, the TTL prepares to lead the discussion with a 
     -   Appointing a focal point​;
     -   Providing necessary information for sampling​;
     -   Understanding the required approvals documents.
--   Aiming to confirm the country\'s participation in the GEPD 
+-   Aiming to confirm the country's participation in the GEPD 
 
 ***Resources Available for Download at substep 1.3:*** [Sample Presentations](https://github.com/ArthurCheib/gepd-implementation-pck/raw/main/websites-materials/step-1/SB3_GEPD%20Presentations.zip){.btn .btn-primary} [Meeting's FAQ](https://github.com/ArthurCheib/gepd-implementation-pck/raw/main/websites-materials/step-1/SB3_FAQ%20-%20Initial%20Meeting.docx){.btn .btn-primary}
 
-### 1.4 - Next Steps Email - following-up after Initial Meeting
+#### **1.4 - Next Steps Email (following-up after Initial Meeting)**
 
-### 1.5 - Establishing Channels of Communication
+After the initial meeting, the following action is to send a comprehensive follow-up email to the country's representatives. This email should be structured to provide clarity and direction, ensuring the country's representatives are fully informed of the requirements and upcoming phases in the GEPD implementation process.​ Its essential purposes are:
+
+1.  [Reiteration and Documentation:]{.underline} It includes the presentation delivered during the meeting as an attachment, serving as a reference point and reinforcing the discussed topics.​
+2.  [Confirmation of Participation:]{.underline} If the country's participation was confirmed during the meeting, the email will formally acknowledge this and express appreciation for the commitment.​
+3.  [Outlining Next Steps:]{.underline} Importantly, the email will detail the subsequent steps required to move the GEPD project forward. This includes:​
+    -   Creating a project timeline, providing a clear schedule of activities and milestones.​
+    -   Requesting sample data for the schools and public officials survey, guided by the attached Excel table format.​
+    -   Establishing contact with the focal point to facilitate data collection and follow-up communications.
+    -   Provide the counterpart with all the actions needed from their side
+
+***Resources Available for Download at substep 1.4:*** [Next Steps Sample Email](https://github.com/ArthurCheib/gepd-implementation-pck/raw/main/websites-materials/step-1/SB4_Sample%20Email%20-%20Next%20Steps%20Follow-up%20Email.docx){.btn .btn-primary}
+
+#### **1.5 -** **Establishing Channels of Communication**
+
+Once the country's participation is confirmed and the first communications starts to happen, the TTL\'s role shifts towards maintaining momentum and ensuring effective communication. The primary focus at this stage involves two critical aspects:​
+
+1.  Refining the Project Timeline: The TTL must work closely with the country's team to develop a comprehensive timeline for the GEPD implementation. This timeline should outline all key phases, milestones, and deadlines, providing a clear roadmap for the project.​
+
+2.  Facilitating Information and Data Exchange: Ongoing interaction between the TTL and the country's team is essential. The TTL will coordinate the exchange of necessary information and data, ensuring that both sides have what they need for successful implementation. This exchange is crucial for tailoring the GEPD to the country's specific needs.​
+
+The TTL should approach this phase with a focus on clear, consistent communication and collaboration. Keeping the lines of communication open will ensure that any challenges or questions are promptly addressed, and the project stays on track.​
