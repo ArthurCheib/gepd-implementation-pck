@@ -1,5 +1,5 @@
 ---
-title: "Why an Implementation Package?"
+title: "GEPD's Implementation Package"
 format: html
 editor: visual
 ---

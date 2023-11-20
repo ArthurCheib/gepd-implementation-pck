@@ -4,7 +4,7 @@ format: html
 editor: visual
 ---
 
-## Addressing the Learning Crisis					
+## Addressing the Learning Crisis
 
 Policymakers in low - and middle - income countries who are working to improve student learning often find themselves flying blind. They see the budget that goes into education and (sometimes) the learning that students come out with, but they lack information on many of the crucial factors in between---the practices, policies, and politics---that drive those learning outcomes. The [Global Education Policy Dashboard (GEPD)](https://www.educationpolicydashboard.org/) shines a light on those hidden drivers. To tackle the learning crisis, achieving and sustaining learning gains at scale, countries need to know where they stand on **all three of these dimensions---practices (or service delivery), policies, and politics.**
 
@@ -13,11 +13,3 @@ Policymakers in low - and middle - income countries who are working to improve s
 The **Global Education Policy Dashboard (GEPD)**, developed by the World Bank's Education Global Practice, can help countries reduce Learning Poverty. This tool offers a strong basis for identifying priorities for investment and policy reforms that are suited to each country context. It does so by (1) highlighting gaps between what the evidence suggests is effective in promoting learning and what is happening in practice in each system; and (2) allowing governments to track progress as they take action to close those gaps. The GEPD has been implemented in seven education systems and preparation is ongoing in eight more with expected completion by the end of 2024.
 
 **GEPD collects new data in each country** using three new instruments: a School Survey, a Policy Survey, and a Survey of Public Officials. Data collection involves school visits, classroom observations, legislative reviews, teacher and student assessments, and interviews with teachers, principals, and public officials. A major objective of the GEPD project was to develop focused, cost-effective instruments and data-collection procedures, so that the dashboard can be inexpensive enough to be applied (and re-applied) in many countries.
-
-				
-
-			
-
-		
-
-	
