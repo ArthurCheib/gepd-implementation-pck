@@ -16,7 +16,7 @@ At this moment, the task is to pinpoint a specific need within a country that th
 
 #### **1.2 - Requesting an Initial Meeting**
 
-In this phase, the focus shifts to the TTL arranging an initial meeting with key stakeholders in the potential counterpart country. This meeting is planned to last 60-90 minutes, and is intended to delve deeper into the Dashboard's capabilities and relevance to the country's needs. Preparation for this meeting involves sending a well-crafted introductory email to the country's representatives, accompanied by essential GEPD's resources. These documents should provide more details on the Dashboard, illustrating its capacity to meet the country's specific data requirements.
+In this phase, the focus shifts to the TTL arranging an initial meeting with key stakeholders in the potential counterpart country. This meeting is planned to last 60-90 minutes, and is intended to delve deeper into the Dashboard's capabilities and relevance to the country's needs. Preparation for this meeting involves sending a well-crafted introductory email to the country's representatives, accompanied by essential GEPD's resources and the link for [GEPD's Website](https://www.educationpolicydashboard.org/). These documents should provide more details on the Dashboard, illustrating its capacity to meet the country's specific data requirements.
 
 ***Resources Available for Download at substep 1.2:*** [Implementation Brief](https://github.com/ArthurCheib/gepd-implementation-pck/raw/main/websites-materials/step-1/SB2_GEPD%20Implementation%20Brief.zip){.btn .btn-primary} [Reference Guide](https://github.com/ArthurCheib/gepd-implementation-pck/raw/main/websites-materials/step-1/SB2_GEPD%20Reference%20Guide.zip){.btn .btn-primary} [Sample Email](https://github.com/ArthurCheib/gepd-implementation-pck/raw/main/websites-materials/step-1/SB2_Sample%20Email%20-%20Requesting%20initial%20meeting.docx){.btn .btn-primary}
 
@@ -50,7 +50,7 @@ After the initial meeting, the following action is to send a comprehensive follo
 
 #### **1.5 -** **Establishing Channels of Communication**
 
-Once the country's participation is confirmed and the first communications starts to happen, the TTL\'s role shifts towards maintaining momentum and ensuring effective communication. The primary focus at this stage involves two critical aspects:​
+Once the country's participation is confirmed and the first communications starts to happen, the TTL's role shifts towards maintaining momentum and ensuring effective communication. The primary focus at this stage involves two critical aspects:​
 
 1.  Refining the Project Timeline: The TTL must work closely with the country's team to develop a comprehensive timeline for the GEPD implementation. This timeline should outline all key phases, milestones, and deadlines, providing a clear roadmap for the project.​
 
