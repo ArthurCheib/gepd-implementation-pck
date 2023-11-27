@@ -46,7 +46,7 @@ After the initial meeting, the following action is to send a comprehensive follo
     -   Establishing contact with the focal point to facilitate data collection and follow-up communications.
     -   Provide the counterpart with all the actions needed from their side
 
-***Resources Available for Download at substep 1.4:*** [Next Steps Sample Email](https://github.com/ArthurCheib/gepd-implementation-pck/raw/main/websites-materials/step-1/SB4_Sample%20Email%20-%20Next%20Steps%20Follow-up%20Email.docx){.btn .btn-primary}
+***Resources Available for Download at substep 1.4:*** [Next Steps Sample Email](https://github.com/ArthurCheib/gepd-implementation-pck/raw/main/websites-materials/step-1/SB4_Sample%20Email%20-%20Next%20Steps%20Follow-up%20Email.docx){.btn .btn-primary} [School Information](https://github.com/ArthurCheib/gepd-implementation-pck/raw/main/websites-materials/step-1/SB4_School_Information.xlsx}
 
 #### **1.5 -** **Establishing Channels of Communication**
 
