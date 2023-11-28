@@ -1,6 +1,9 @@
 ### Libraries
 library(tidyverse)
-source()
+url <- 'https://raw.githubusercontent.com/ArthurCheib/gepd-implementation-pck/main/websites-materials/step-2/stratify_sample.R'
+source(url)
+
+# If you want more information about the sampling process done in R, access the `url` above
 
 ## Data
 file <- 'your_file_name'
