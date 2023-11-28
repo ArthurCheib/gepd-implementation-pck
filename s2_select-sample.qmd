@@ -34,4 +34,4 @@ In the second stage, within the selected schools, a random sample of teachers an
 
 </iframe>
 
-This Sampling Tool was created to assist you during the Sampling Process of GEPD's Implementation. You can also access the source code used to generate the stratified sample by download its script here: [Download Sampling R Code](https://github.com/yourusername/yourrepository/yourscript.R){.btn .btn-primary target="_blank"}
+This Sampling Tool was created to assist you during the Sampling Process of GEPD's Implementation. You can also access the source code used to generate the stratified sample by download its script here: [Download Sampling R Code](https://raw.githubusercontent.com/ArthurCheib/gepd-implementation-pck/main/websites-materials/step-2/gepd-sampling.R){.btn .btn-primary target="_blank"}
