@@ -219,15 +219,21 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<section id="sampling-process" class="level3">
-<h3 class="anchored" data-anchor-id="sampling-process"><strong>Sampling Process</strong></h3>
+<section id="sampling-process" class="level2">
+<h2 class="anchored" data-anchor-id="sampling-process">Sampling Process</h2>
 <p>The Global Education Policy Dashboard (GEPD) employs a sophisticated two-stage random sampling design to ensure the collection of nationally representative and high-quality data. The sampling strategy adopted by GEPD allows for precise detection of variations over time, as well as differences based on urban/rural locations and gender. In the first stage, a stratified sampling approach is used, considering geographical regions and urban/rural classifications to select schools. This ensures a diverse and representative sample that accurately mirrors the country’s educational settings.</p>
-<p>In the second stage, within the selected schools, a random sample of teachers and students is chosen for interviews and assessments. This level of granularity allows the GEPD to delve into the nuances of educational experiences at the individual level. The process is designed to be adaptable, taking into account the specific educational and geographical contexts of each country.</p>
+<p>In the second stage, within the selected schools, a random sample of teachers and students is chosen for interviews and assessments. The process is designed to be adaptable, taking into account the specific educational and geographical contexts of each country.</p>
+<div class="tabset-margin-container"></div><div class="panel-tabset">
+<ul class="nav nav-tabs" role="tablist"><li class="nav-item" role="presentation"><a class="nav-link active" id="tabset-1-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-1" role="tab" aria-controls="tabset-1-1" aria-selected="true" aria-current="page">School Sampling</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-1-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-2" role="tab" aria-controls="tabset-1-2" aria-selected="false">Public Officials Sampling</a></li></ul>
+<div class="tab-content">
+<div id="tabset-1-1" class="tab-pane active" role="tabpanel" aria-labelledby="tabset-1-1-tab">
+<section id="receive-the-countrys-list-of-schools" class="level4">
+<h4 class="anchored" data-anchor-id="receive-the-countrys-list-of-schools"><strong>Receive the Country’s List of Schools:</strong></h4>
+<p>At this point, the country has shared an up-to-date list containing all of its schools and all the necessary information about each of them (the columns we need can be found at the <a href="https://arthurcheib.github.io/gepd-implementation-pck/s1_confirm-country.html#next-steps-email-following-up-after-initial-meeting">substep 1.4 of Confirming Country’s Participation</a>).</p>
 </section>
-<section id="sampling---1st-stage" class="level3">
-<h3 class="anchored" data-anchor-id="sampling---1st-stage"><strong>Sampling - 1st Stage</strong></h3>
-<p><strong>Receive the Country’s List of Schools:</strong> At this point, the country has shared an up-to-date list containing all of its schools and all the necessary information about each of them (the columns we need can be found at the substep 1.4 of Confirming Country’s Participation).</p>
-<p><strong>Use the Sampling Tool:</strong> The app below is designed to assist in the stratification and random selection process, ensuring efficiency and accuracy. Here is a quick step-by-step of how it can be used:</p>
+<section id="use-the-sampling-tool" class="level4">
+<h4 class="anchored" data-anchor-id="use-the-sampling-tool"><strong>Use the Sampling Tool:</strong></h4>
+<p>The app below is designed to assist in the stratification and random selection process, ensuring efficiency and accuracy. Here is a quick step-by-step of how it can be used:</p>
 <ul>
 <li>Upload your excel or csv file containing the list of schools</li>
 <li>Choose the sample size of schools you desire</li>
@@ -236,14 +242,43 @@ ul.task-list li input[type="checkbox"] {
 <li>Visualize the schools selected</li>
 <li>Download your file containing the schools sampled</li>
 </ul>
-<p><strong>Finalize and Document School List:</strong> Concisely review and confirm the selected schools’ list, ensuring it aligns with representativeness and feasibility criteria, and include backup schools for potential non-responses.</p>
-<p><strong>Maintain consistent communication with the GEPD central team</strong> for quality checks and feedback integration. Thoroughly document every aspect of the sampling process, including stratification rationale, school selection, and any encountered challenges, and report these details back to the central team for review and record-keeping.</p>
 </section>
-<section id="sampling-tool" class="level3">
-<h3 class="anchored" data-anchor-id="sampling-tool"><strong>Sampling Tool</strong></h3>
+<section id="finalize-and-document-school-list" class="level4">
+<h4 class="anchored" data-anchor-id="finalize-and-document-school-list"><strong>Finalize and Document School List:</strong></h4>
+<p>Concisely review and confirm the selected schools’ list, ensuring it aligns with representativeness and feasibility criteria, and include backup schools for potential non-responses.</p>
+</section>
+<section id="maintain-consistent-communication-with-the-gepd-central-team" class="level4">
+<h4 class="anchored" data-anchor-id="maintain-consistent-communication-with-the-gepd-central-team"><strong>Maintain consistent communication with the GEPD central team:</strong></h4>
+<p>For quality checks and feedback integration, make your sure you document every aspect of the sampling process, including stratification rationale, school selection, and any encountered challenges, and report these details back to the central team for review and record-keeping.</p>
+</section>
+<section id="sampling-tool" class="level4">
+<h4 class="anchored" data-anchor-id="sampling-tool">Sampling Tool:</h4>
 <iframe src="https://arthurcheib.shinyapps.io/gepd-sampling/" style="border: none; width: 100%; height: 800px;">
 </iframe>
-<p>This Sampling Tool was created to assist you during the Sampling Process of GEPD’s Implementation. You can also access the source code used to generate the stratified sample by download its script here: <a href="https://github.com/ArthurCheib/gepd-implementation-pck/raw/main/websites-materials/step-2/gepd-sampling.R.zip" class="btn btn-primary" target="_blank">Download Sampling R Code</a></p>
+<p>This Sampling Tool was created to assist you during the Sampling Process of GEPD’s Implementation. You can also access the source code used to generate the stratified sample by downloading it: <a href="https://github.com/ArthurCheib/gepd-implementation-pck/raw/main/websites-materials/step-2/gepd-sampling.R.zip" class="btn btn-primary" target="_blank">Download Sampling R Code</a></p>
+</section>
+</div>
+<div id="tabset-1-2" class="tab-pane" role="tabpanel" aria-labelledby="tabset-1-2-tab">
+<p>In the GEPD implementation, the sampling of public officials involves selecting 200 public education officials, focusing on personnel from both central and regional/district offices of the Ministry of Education. The sampling utilizes a cluster strategy. However, most commonly, instead of receiving a direct list of public officials, GEPD is typically provided with a list of regional and district public office locations.</p>
+<p>Based on this, 10 regional offices are randomly selected from the regions corresponding to the school survey. In each region, one district office is chosen. Within these offices, the sampling includes 7 officials: the head of the office, the HR director, and five randomly chosen officials from finance and planning.</p>
+<p>The federal level sampling is conducted in collaboration with the Ministry of Education, focusing on key offices, where the director and a random selection of officials are interviewed. This stratified approach ensures comprehensive coverage from school to district, regional, and central offices.</p>
+<section id="step-by-step" class="level4">
+<h4 class="anchored" data-anchor-id="step-by-step"><strong>Step-by-step</strong></h4>
+<ol type="1">
+<li>Receive Office Locations List</li>
+<li>Select Regional Offices: randomly choose 10 regional offices from the provided list, ensuring they align with the regions where schools were surveyed.</li>
+<li>Choose District Offices: In each selected region, randomly pick one district office</li>
+<li>Sample Officials in Offices:
+<ul>
+<li>In each regional/district office, randomly select 7 officials, including the office head, HR director, and five officials from finance and planning.</li>
+<li>At the federal level, work with the Ministry of Education to identify relevant offices. Interview the office director and a random number of staff members.</li>
+</ul></li>
+<li>Document the sampling process</li>
+</ol>
+</section>
+</div>
+</div>
+</div>
 
 
 </section>

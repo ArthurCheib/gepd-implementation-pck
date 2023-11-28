@@ -3,3 +3,11 @@ title: "4. Procuring Survey Firm"
 format: html
 editor: visual
 ---
+
+## Survey Firm
+
+For initial GEPD implementations across various countries, survey firms are selected through competitive bidding. This procurement process, aligned with World Bank Group (WBG) standards, typically spans about eight weeks. The process begins with drafting an Expression of Interest (EOI) letter and Terms of Reference (TOR), using the templates provided below.
+
+Once these documents are ready, the local team initiates the competitive procurement process - following the Bank protocols - which its done using the bank's specific procurement platform.
+
+***Resources Available for this step:*** [Expression of Interest (EOI)](link){.btn .btn-primary} [Terms of Reference (ToR)](link){.btn .btn-primary}
