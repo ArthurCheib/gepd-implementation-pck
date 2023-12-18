@@ -7,46 +7,88 @@ format:
 
 ## Sampling Process
 
-The Global Education Policy Dashboard (GEPD) employs a sophisticated two-stage random sampling design to ensure the collection of nationally representative and high-quality data. The sampling strategy adopted by GEPD allows for precise detection of variations over time, as well as differences based on urban/rural locations and gender. In the first stage, a stratified sampling approach is used, considering geographical regions and urban/rural classifications to select schools. This ensures a diverse and representative sample that accurately mirrors the country's educational settings.
+The Global Education Policy Dashboard (GEPD) uses a two-stage random sampling method for collecting representative and quality data. Initially, schools are selected through a stratified sampling based on urban/rural classification and, if needed, geographical regions. This step guarantees a diverse and accurate representation of the nation's schools. The second stage involves randomly selecting teachers and students from these schools for interviews and assessments.
 
-In the second stage, within the selected schools, a random sample of teachers and students is chosen for interviews and assessments. The process is designed to be adaptable, taking into account the specific educational and geographical contexts of each country.
-
-::: {.panel-tabset}
-
+::: panel-tabset
 ### School Sampling
 
-#### **Receive the Country's List of Schools:**
+#### **Request & Receive the Country's List of Schools**
 
-At this point, the country has shared an up-to-date list containing all of its schools and all the necessary information about each of them (the columns we need can be found at the [substep 1.4 of Confirming Country's Participation](https://arthurcheib.github.io/gepd-implementation-pck/s1_confirm-country.html#next-steps-email-following-up-after-initial-meeting)).
+The need for an up-to-date list containing all of its schools and all the necessary information about each of them was previously discussed with country at the [substep 1.4 of Confirming Country's Participation](https://arthurcheib.github.io/gepd-implementation-pck/s1_confirm-country.html#next-steps-email-following-up-after-initial-meeting)).
 
-#### **Use the Sampling Tool:**
+For the Sampling Tool to be used, the **Country's List of Schools** file can be downloaded here [School List](https://github.com/ArthurCheib/gepd-implementation-pck/raw/main/websites-materials/step-1/SB4_School_Information.xlsx){.btn .btn-primary} and the country should prepare for obtaining the following data:
 
-The app below is designed to assist in the stratification and random selection process, ensuring efficiency and accuracy. Here is a quick step-by-step of how it can be used:
+-   **Name of School:** Official name of the educational institution.
+
+-   **Region:** Geographical region where the school is located.
+
+-   **District:** Administrative district of the school's location.
+
+-   **City:** City or town where the school is situated.
+
+-   **Geographic Location:** School's specific geographical coordinates.
+
+-   **Urban or Rural Indicator:** Classification as urban or rural.
+
+-   **Type of School:** Category or kind of school (e.g., primary).
+
+-   **Type of Property:** Ownership status of the school building.
+
+-   **Does the school have a second shift? Yes/No:** Indicator of dual-shift system.
+
+-   **1st Grade Total Number of Students:** Total students in 1st grade.
+
+-   **2nd Grade Total Number of Students:** Total students in 2nd grade.
+
+-   **3rd Grade Total Number of Teachers:** Total teachers for 3rd grade.
+
+-   **th Grade Total Number of Teachers:** Total teachers for 4th grade.
+
+-   **5th Grade Total Number of Students:** Total students in 5th grade.
+
+-   **6th Grade Total Number of Students:** Total students in 6th grade.
+
+-   **1st Grade Total Number of Teachers:** Total teachers for 1st grade.
+
+-   **2nd Grade Total Number of Teachers:** Total teachers for 2nd grade.
+
+-   **3rd Grade Total Number of Teachers:** Total teachers for 3rd grade.
+
+-   **4th Grade Total Number of Teachers:** Total teachers for 4th grade.
+
+-   **5th Grade Total Number of Teachers:** Total teachers for 5th grade.
+
+-   **6th Grade Total Number of Teachers:** Total teachers for 6th grade.
+
+#### **Sampling Rules:**
+
+The app below is designed to assist in the stratification and random selection process, and the rules for properly sampling are:
+
+- Sample size: GEPD common sample size is of 200 to 300 schools;
+- Stratification: GEPD uses the rural/urban classification as a Strata when sampling. The region column is optional, but including it can influence the overall sample size
+- Minimum of students: to qualify as a valid sample school, each school must have a minimum of three (3) students in both 1st and 4th grades.
+
+#### **Using the Sampling Tool:**
+
+Make sure to follow these steps:
 
 -   Upload your excel or csv file containing the list of schools
--   Choose the sample size of schools you desire
+-   Choose the sample size of schools (from 200 to 300 sample size)
 -   Choose one or two columns that you want to use for stratification
 -   Run the sampling!
 -   Visualize the schools selected
 -   Download your file containing the schools sampled
 
-#### **Finalize and Document School List:**
-
-Concisely review and confirm the selected schools' list, ensuring it aligns with representativeness and feasibility criteria, and include backup schools for potential non-responses.
-
 #### **Maintain consistent communication with the GEPD central team:**
 
 For quality checks and feedback integration, make your sure you document every aspect of the sampling process, including stratification rationale, school selection, and any encountered challenges, and report these details back to the central team for review and record-keeping.
 
-#### Sampling Tool:
 
 <iframe src="https://arthurcheib.shinyapps.io/gepd-sampling/" style="border: none; width: 100%; height: 800px;">
 
 </iframe>
 
 This Sampling Tool was created to assist you during the Sampling Process of GEPD's Implementation. You can also access the source code used to generate the stratified sample by downloading it: [Download Sampling R Code](https://github.com/ArthurCheib/gepd-implementation-pck/raw/main/websites-materials/step-2/gepd-sampling.R.zip){.btn .btn-primary target="_blank"}
-
-
 
 ### Public Officials Sampling
 
@@ -58,13 +100,11 @@ The federal level sampling is conducted in collaboration with the Ministry of Ed
 
 #### **Step-by-step**
 
-1. Receive Office Locations List
-2. Select Regional Offices: randomly choose 10 regional offices from the provided list, ensuring they align with the regions where schools were surveyed.
-3. Choose District Offices: In each selected region, randomly pick one district office
-4. Sample Officials in Offices:
-    - In each regional/district office, randomly select 7 officials, including the office head, HR director, and five officials from finance and planning.
-    - At the federal level, work with the Ministry of Education to identify relevant offices. Interview the office director and a random number of staff members.
-5. Document the sampling process
-
-
+1.  Receive Office Locations List
+2.  Select Regional Offices: randomly choose 10 regional offices from the provided list, ensuring they align with the regions where schools were surveyed.
+3.  Choose District Offices: In each selected region, randomly pick one district office
+4.  Sample Officials in Offices:
+    -   In each regional/district office, randomly select 7 officials, including the office head, HR director, and five officials from finance and planning.
+    -   At the federal level, work with the Ministry of Education to identify relevant offices. Interview the office director and a random number of staff members.
+5.  Document the sampling process
 :::
