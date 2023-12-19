@@ -6,8 +6,47 @@ editor: visual
 
 ## Survey Firm
 
-For initial GEPD implementations across various countries, survey firms are selected through competitive bidding. This procurement process, aligned with World Bank Group (WBG) standards, typically spans about eight weeks. The process begins with drafting an Expression of Interest (EOI) letter and Terms of Reference (TOR), using the templates provided below.
+Survey firms are selected through competitive bidding. This procurement process, aligned with World Bank Group (WBG) standards, typically spans about eight weeks. The process begins with drafting an Expression of Interest (EOI) letter and Terms of Reference (TOR). Once these documents are ready, the local team initiates the competitive procurement process at the Bank's RFX Platform.
 
-Once these documents are ready, the local team initiates the competitive procurement process - following the Bank protocols - which its done using the bank's specific procurement platform.
+### Step-by-step Guide
 
-***Resources Available for this step:*** [Expression of Interest (EOI)](link){.btn .btn-primary} [Terms of Reference (ToR)](link){.btn .btn-primary}
+**1.  Ensure RFX's Accreditation**
+
+-   Confirm that you or someone in the team - with powers to have it - have the necessary RFX accreditation to use the World Bank's procurement platform. This is essential for initiating and managing the procurement process.
+-   RFX's Platform has a lot of resources available teaching how to be properly used. In an extra section that can be found at the bottom of this page we share some of them.
+
+**2.  Draft the Expression of Interest (EOI)**
+
+-   Create an EOI document, clearly outlining the requirements and expectations for the survey firm. Ensure the EOI is concise yet comprehensive.
+
+Download here a sample EOI: [Download Sample EOI](https://github.com/ArthurCheib/gepd-implementation-pck/raw/main/websites-materials/step-2/gepd-sampling.R.zip){.btn .btn-primary target="_blank"}
+
+**3.  Draft the Terms of Reference (ToR)**
+
+-   Prepare the ToR, detailing the scope of work, responsibilities, and qualifications needed from the survey firm. The ToR should align with the goals of the GEPD project.
+
+Download here a sample ToR: [Download Sample ToR](https://github.com/ArthurCheib/gepd-implementation-pck/raw/main/websites-materials/step-2/gepd-sampling.R.zip){.btn .btn-primary target="_blank"}
+
+**4.  Launch the EOI**
+
+-   Publish the EOI on the Bank's procurement platform, making it available for potential firms to apply. Set a reasonable deadline for submissions, typically 2-3 weeks so they can submit their proposals.
+
+**5.  Score Matching received Proposals & Identifying Winning Firm**
+
+- After the EOI deadline, review all submissions and shortlist firms based on their initial proposals. Proposals will then be scored on how well they meet the technical requirements outlined in the ToR. When technical scores are submitted and locked, then the financial proposals can be open (the system will generate score automatically for financials). Based on that, winning firm is identified.
+
+- After identifying the winner, allow 1-2 weeks for contract to be signed / processed. After that make sure to arrange a kickoff meeting with the winning Survey Firm - a moment of first contact after Procurement Process is over.
+
+### Resources to use RFX's Platform
+
+Click here to access it: [RFX's Platform](https://worldbankgroup.sharepoint.com.mcas.ms/sites/procurement/SitePages/PublishingPages/WBGeProcure%20RFxNow-1669753217331.aspx)
+
+1. [Understanding Procurement Types and User Roles](https://worldbankgroup.sharepoint.com.mcas.ms/sites/procurement/Knowledge%20Base/Forms/AllItems.aspx?id=%2Fsites%2Fprocurement%2FKnowledge%20Base%2FRFxNow%20Understanding%20Procurement%20Types%20and%20User%20Roles%2Epdf&parent=%2Fsites%2Fprocurement%2FKnowledge%20Base)
+
+2. [Initiating a Competitive Procurement](https://worldbankgroup.sharepoint.com.mcas.ms/sites/procurement/Knowledge%20Base/Forms/AllItems.aspx?id=%2Fsites%2Fprocurement%2FKnowledge%20Base%2FRFxNow%20Initiating%20a%20Competitive%20Procurement%2Epdf&parent=%2Fsites%2Fprocurement%2FKnowledge%20Base)
+
+3. [RFX Ten Tips on how to use it](https://worldbankgroup.sharepoint.com.mcas.ms/sites/procurement/_layouts/15/stream.aspx?id=%2Fsites%2Fprocurement%2FDocuments%2FVideos%2FRFxNow%2010%20Tips%20Updated%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
+
+4. [FAQ about using RFX](https://worldbankgroup.sharepoint.com.mcas.ms/sites/procurement/SitePages/SystemPages/Detail.aspx/Documents/mode=view?_Id=238&SiteURL=/sites/procurement)
+
+5. [Online Training Session on how to use RFX](https://worldbankgroup.sharepoint.com.mcas.ms/sites/procurement/sitepages/publishingpages/Training-10042018-153544.aspx)
