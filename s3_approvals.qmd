@@ -4,7 +4,7 @@ format: html
 editor: visual
 ---
 
-## Approvals Process
+## About this Phase:
 
 Obtaining necessary approvals is essential for beginning the data collection process. Since approval requirements vary by country, this step provides a list of common approvals. The examples provided are from previous implementations, but GEPD's implementation team should always meet country-specific regulatory needs.
 

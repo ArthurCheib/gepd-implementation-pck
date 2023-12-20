@@ -4,7 +4,7 @@ format: html
 editor: visual
 ---
 
-## Survey Firm
+## About this Phase:
 
 Survey firms are selected through competitive bidding - a procurement process, aligned with the Bank standards that spans about eight weeks. The process begins with drafting an Expression of Interest (EOI) letter and Terms of Reference (TOR). Once these documents are ready, the local team initiates the competitive procurement process at the Bank's RFX Platform.
 
