@@ -13,7 +13,7 @@ Survey firms are selected through competitive bidding - a procurement process, a
 **1. Ensure RFX's Accreditation**
 
 -   Confirm that you or someone in the team - with powers to have it - have the necessary RFX accreditation to use the World Bank's procurement platform. This is essential for initiating and managing the procurement process.
--   RFX's Platform has a lot of resources available teaching how to be properly used. In an extra section that can be found at the bottom of this page we share some of them.
+-   RFX's Platform has a lot of resources available teaching how to be properly used. In an extra section that can be found at the [bottom of this page](https://arthurcheib.github.io/gepd-implementation-pck/s4_survey-firm.html#resources-to-use-rfxs-platform) we share some of them.
 
 **2. Draft the Expression of Interest (EOI)**
 

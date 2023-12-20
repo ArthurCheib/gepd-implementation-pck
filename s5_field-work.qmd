@@ -16,13 +16,13 @@ This step ensures that both the Task Team Leader (TTL) and the survey firm are f
 
 The onboarding email to the survey firm marks the beginning of Step 5. It formally welcomes the firm and provides essential information and resources for the project. The email - a sample of it can be downloaded below too - should include attached the following documents:
 
-- School Survey Instrument: [Download Sample EOI](https://github.com/ArthurCheib/gepd-implementation-pck/raw/main/websites-materials/step-2/gepd-sampling.R.zip){.btn .btn-primary target="_blank"}
-- Manual of the School Survey: [Download Sample EOI](https://github.com/ArthurCheib/gepd-implementation-pck/raw/main/websites-materials/step-2/gepd-sampling.R.zip){.btn .btn-primary target="_blank"}
-- Step-by-step Guide for the School Survey: [Download Sample EOI](https://github.com/ArthurCheib/gepd-implementation-pck/raw/main/websites-materials/step-2/gepd-sampling.R.zip){.btn .btn-primary target="_blank"}
-- Survey of Public Officials Instrument: [Download Sample EOI](https://github.com/ArthurCheib/gepd-implementation-pck/raw/main/websites-materials/step-2/gepd-sampling.R.zip){.btn .btn-primary target="_blank"}
-- Manual of the Survey of Public Officials: [Download Sample EOI](https://github.com/ArthurCheib/gepd-implementation-pck/raw/main/websites-materials/step-2/gepd-sampling.R.zip){.btn .btn-primary target="_blank"}
-- Step-by-step Guide for the Survey of Public Officials: [Download Sample EOI](https://github.com/ArthurCheib/gepd-implementation-pck/raw/main/websites-materials/step-2/gepd-sampling.R.zip){.btn .btn-primary target="_blank"}
-- Recordings of Previous Survey Firm's Training: [Download Sample EOI](https://github.com/ArthurCheib/gepd-implementation-pck/raw/main/websites-materials/step-2/gepd-sampling.R.zip){.btn .btn-primary target="_blank"}
+- **School Survey Instrument:** [Download Sample EOI](https://github.com/ArthurCheib/gepd-implementation-pck/raw/main/websites-materials/step-2/gepd-sampling.R.zip){.btn .btn-primary target="_blank"}
+- **Manual of the School Survey:** [Download Sample EOI](https://github.com/ArthurCheib/gepd-implementation-pck/raw/main/websites-materials/step-2/gepd-sampling.R.zip){.btn .btn-primary target="_blank"}
+- **Step-by-step Guide for the School Survey:** [Download Sample EOI](https://github.com/ArthurCheib/gepd-implementation-pck/raw/main/websites-materials/step-2/gepd-sampling.R.zip){.btn .btn-primary target="_blank"}
+- **Survey of Public Officials Instrument:** [Download Sample EOI](https://github.com/ArthurCheib/gepd-implementation-pck/raw/main/websites-materials/step-2/gepd-sampling.R.zip){.btn .btn-primary target="_blank"}
+- **Manual of the Survey of Public Officials:** [Download Sample EOI](https://github.com/ArthurCheib/gepd-implementation-pck/raw/main/websites-materials/step-2/gepd-sampling.R.zip){.btn .btn-primary target="_blank"}
+- **Step-by-step Guide for the Survey of Public Officials:** [Download Sample EOI](https://github.com/ArthurCheib/gepd-implementation-pck/raw/main/websites-materials/step-2/gepd-sampling.R.zip){.btn .btn-primary target="_blank"}
+- **Recordings of Previous Survey Firm's Training:** [Download Sample EOI](https://github.com/ArthurCheib/gepd-implementation-pck/raw/main/websites-materials/step-2/gepd-sampling.R.zip){.btn .btn-primary target="_blank"}
 
 In addition, the email outlines the immediate steps for the firm, which include:
 
@@ -34,15 +34,15 @@ In addition, the email outlines the immediate steps for the firm, which include:
 
 The kick-off meeting, is the space for the TTL to ensure that the project's scope, timeline, and roles are all clear for the survey firm. It's the moment to go through the contract details, including deliverables and quality standards, so addressing initial questions and setting clear expectations are key. The TTL should highlight critical milestones and discuss immediate preparatory steps.
 
-As a resource for this step, check this FAQ of potential questions that might come from the Survey Firm:  [Download Kick-off Meeting FAQ](https://github.com/ArthurCheib/gepd-implementation-pck/raw/main/websites-materials/step-2/gepd-sampling.R.zip){.btn .btn-primary target="_blank"}
+As a resource, this FAQ of potential questions might prove useful: [Download Kick-off Meeting FAQ](https://github.com/ArthurCheib/gepd-implementation-pck/raw/main/websites-materials/step-2/gepd-sampling.R.zip){.btn .btn-primary target="_blank"}
 
 **3. Supervising the Preparations of the Firm**
 
 The final step of Preparing the Field Work concerns the TTL responsibility of supervising the survey firm’s preparations, ensuring they meet GEPD standards and adhere to project timelines. This role might involve:
 
 - Ensuring the Survey Firm have access to all necessary materials
-- Overseeing the Survey Firm’s training process
-- Overseeing the instrument adaptation, and any necessary translations
+- Overseeing the Survey Firm’s training process and pre-tests of the tools
+- Overseeing the instrument adaptation, translations and elaboration of the field protocols
 - Addressing the Survey Firm questions about the survey methodologies
 
 The TTL must also confirm that logistical plans for field work are finalized. Regular check-ins are key for assessing the firm’s progress and addressing potential issues promptly.
