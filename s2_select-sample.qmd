@@ -14,9 +14,7 @@ The Global Education Policy Dashboard (GEPD) uses a two-stage random sampling me
 
 #### **Request & Receive the Country's List of Schools**
 
-The need for an up-to-date list containing all of its schools and all the necessary information about each of them was previously discussed with country at the [substep 1.4 of Confirming Country's Participation](https://arthurcheib.github.io/gepd-implementation-pck/s1_confirm-country.html#next-steps-email-following-up-after-initial-meeting)).
-
-For the Sampling Tool to be used, the **Country's List of Schools** file can be downloaded here [School List](https://github.com/ArthurCheib/gepd-implementation-pck/raw/main/websites-materials/step-1/SB4_School_Information.xlsx){.btn .btn-primary} and the country should prepare for obtaining the following data:
+The Sampling Tool can only be used when the Country share the **Country's List of Schools** file, that can also be downloaded here [School List](https://github.com/ArthurCheib/gepd-implementation-pck/raw/main/websites-materials/step-1/SB4_School_Information.xlsx){.btn .btn-primary} - this is the same list previously discussed with country at the [substep 1.4 of Confirming Country's Participation](https://arthurcheib.github.io/gepd-implementation-pck/s1_confirm-country.html#next-steps-email-following-up-after-initial-meeting). Such list contains the following columns, to be populated:
 
 -   **Name of School:** Official name of the educational institution.
 
@@ -62,15 +60,13 @@ For the Sampling Tool to be used, the **Country's List of Schools** file can be 
 
 #### **Sampling Rules:**
 
-The app below is designed to assist in the stratification and random selection process, and the rules for properly sampling are:
+The rules for running the random stratification when sampling are:
 
-- Sample size: GEPD common sample size is of 200 to 300 schools;
-- Stratification: GEPD uses the rural/urban classification as a Strata when sampling. The region column is optional, but including it can influence the overall sample size
-- Minimum of students: to qualify as a valid sample school, each school must have a minimum of three (3) students in both 1st and 4th grades.
+- **Sample size:** GEPD common sample size is of 200 to 300 schools;
+- **Stratification:** GEPD uses the rural/urban classification as a Strata when sampling. The region column is optional, but including it can influence the overall sample size
+- **Minimum of students:** to qualify as a valid sample school, each school must have a minimum of three (3) students in both 1st and 4th grades.
 
-#### **Using the Sampling Tool:**
-
-Make sure to follow these steps:
+#### **Steps for Using the Sampling Tool:**
 
 -   Upload your excel or csv file containing the list of schools
 -   Choose the sample size of schools (from 200 to 300 sample size)
@@ -78,11 +74,8 @@ Make sure to follow these steps:
 -   Run the sampling!
 -   Visualize the schools selected
 -   Download your file containing the schools sampled
-
-#### **Maintain consistent communication with the GEPD central team:**
-
-For quality checks and feedback integration, make your sure you document every aspect of the sampling process, including stratification rationale, school selection, and any encountered challenges, and report these details back to the central team for review and record-keeping.
-
+-   Document the steps of your sampling process
+-   Reach out to the Central Team as needed
 
 <iframe src="https://arthurcheib.shinyapps.io/gepd-sampling/" style="border: none; width: 100%; height: 800px;">
 
