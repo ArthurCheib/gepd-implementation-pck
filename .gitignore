@@ -3,6 +3,7 @@
 .RData
 .Ruserdata
 interviews/
+documents/
 /.quarto/
 EOI_sample.docx
 ToR_sample.docx
