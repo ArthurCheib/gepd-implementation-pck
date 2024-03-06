@@ -1,5 +1,5 @@
 ---
 title: "6. Training Enumerators and Piloting the Project"
 format: html
-editor: visual
+editor: source
 ---
