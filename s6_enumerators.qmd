@@ -1,5 +1,54 @@
 ---
-title: "6. Training Enumerators and Piloting the Project"
+title: "6. Training Enumerators and Piloting"
 format: html
 editor: source
 ---
+
+<div style="margin-top: 30px;"></div>
+
+Training and piloting are critical to the successful implementation of GEPD. Training sessions vary depending on the survey: School Survey training spans five days due to the need for careful handling of assessments involving children and because it covers a higher amount of modules, while the Public Officials Survey training can last two to five complete days.
+
+It should be taken into consideration that the training sessions can either be implemented sequentially or in parallel, adapting to resource availability and logistical constraints. Paralell implementation would mean having two sets of enumreators being trained at the same time, each in a different Instrument
+
+
+<div style="margin-top: 50px;"></div>
+
+## Step-by-Step Training Guide
+
+#### **1. Differentiated Training Sessions**
+
+#### **School Survey Training**
+
+Five days of comprehensive training, focusing on the 1:1 assessment methodology with first graders. The School Survey collects data primarily on Practices (the quality of service delivery in schools), but also on some de facto Policy and school-level Politics indicators.  It consists of streamlined versions of existing instruments—including Service Delivery Indicator (SDI) Surveys, Teach, Global Early Child Development Database (GECDD), In-Service Teacher Training Instrument Survey (ITTSI), and the Development World Management Survey (DWMS)—together with new questions to fill gaps in those instruments.
+
+The School Survey includes 8 short modules: Roster, School Information, Principal Questionnaire, Teacher Questionnaire, Classroom Observation, Teacher Assessment, Direct Assessment, and Student Assessment. For a team of two enumerators, it takes on average about 4 hours to collect all information in a given school. 
+
+
+
+#### **Public Officials Survey Training**
+
+Two to five days focused on understanding administrative data and conducting professional interviews. The Public Officials Survey collects data on the quality of service delivery in public sector organizations and it is comprised of 4 key modules: National Learning Goals (NLG),
+Accountability and Mandates (ACM), Quality of Bureaucracy (QB), Impartial Decision-making (IDM) 
+
+<div style="margin-top: 50px;"></div>
+
+#### **2. Utilizing Training Materials**
+
+- Ensure all training materials, including the manual and the step-by-step guide, are readily available and tailored to the specifics of each survey type. 
+
+**2.1 - RESOURCES AVAILABLE:**
+
+- **Download Training Materials - School Survey:**
+[Instruments]() | [Training Manual]() | [Step-by-Step Guide]() | [Training Agenda]() | [Presentations (ppts)]()
+
+- **Download Training Materials - Public Officials:**
+[Instruments]() | [Training Manual]() | [Step-by-Step Guide]() | [Training Agenda]() | [Presentations (ppts)]()
+
+<div style="margin-top: 50px;"></div>
+
+#### **3. Pilot Testing**
+
+- Conduct pilot tests in schools not part of the main sample to allow enumerators to practice and refine survey tools. This step is crucial to ensure that the survey tools are well understood and that enumerators are comfortable with the data collection process. 
+
+- Here, exists the possibility of integrating the feedback collected from enumerators during the training to adjust tools and questions to better fit the local context. This means that, after piloting, there is still some room to adjusting some of the wording or the way questions are asked.
+
