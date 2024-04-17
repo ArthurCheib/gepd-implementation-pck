@@ -10,7 +10,7 @@ Implementing a successful data collection involves working close to the Survey F
 
 <div style="margin-top: 50px;"></div>
 
-## Step-by-Step Guide for TTL
+## Step-by-step Guide
 
 #### **1. Review the Implementation Plan**
 

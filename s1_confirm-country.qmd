@@ -12,7 +12,7 @@ A follow-up email is sent post-meeting to confirm participation and outline the 
 
 <div style="margin-top: 50px;"></div>
 
-## Step-by-step:
+## Step-by-step Guide
 
 #### **1.1 - Opportunity Window: Identifying a need for the Dashboard**
 

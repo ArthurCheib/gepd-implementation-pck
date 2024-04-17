@@ -13,7 +13,7 @@ It should be taken into consideration that the training sessions can either be i
 
 <div style="margin-top: 50px;"></div>
 
-## Step-by-Step Training Guide
+## Step-by-step Guide
 
 #### **1. Differentiated Training Sessions**
 
