@@ -14,11 +14,11 @@ This step ensures that both the Task Team Leader (TTL) and the survey firm are f
 
 ## Step-by-step Guide
 
-#### **1. Email for Onboarding the Survey Firm:**
+#### **5.1. Email for Onboarding the Survey Firm:**
 
 The onboarding email to the survey firm marks the beginning of Step 5. It formally welcomes the firm and provides essential information and resources for the project. The email - a sample of it can be downloaded below too - should include attached the following documents:
 
-**1.2 - RESOURCES AVAILABLE:**
+**5.1.1 - RESOURCES AVAILABLE:**
 
 - **School Survey Instrument:** [English](https://github.com/ArthurCheib/gepd-implementation-pck/raw/main/websites-materials/step-1/SB2_GEPD%20Implementation%20Brief/SB2_GEPD%20Implementation%20Brief.pdf)
 |
@@ -103,7 +103,7 @@ In addition, the email outlines the immediate steps for the firm, which include:
 
 <div style="margin-top: 50px;"></div>
 
-#### **2. Kick-off Meeting with the Firm**
+#### **5.2. Kick-off Meeting with the Firm**
 
 The kick-off meeting, is the space for the TTL to ensure that the project's scope, timeline, and roles are all clear for the survey firm. It's the moment to go through the contract details, including deliverables and quality standards, so addressing initial questions and setting clear expectations are key. The TTL should highlight critical milestones and discuss immediate preparatory steps.
 
@@ -120,7 +120,7 @@ As a resource, this **Meeting's FAQ** might prove useful:
 
 <div style="margin-top: 50px;"></div>
 
-#### **3. Supervising the Preparations of the Firm**
+#### **5.3. Supervising the Preparations of the Firm**
 
 The final step of Preparing the Field Work concerns the TTL responsibility of supervising the survey firm’s preparations, ensuring they meet GEPD standards and adhere to project timelines. This role might involve:
 

@@ -12,19 +12,19 @@ Implementing a successful data collection involves working close to the Survey F
 
 ## Step-by-step Guide
 
-#### **1. Review the Implementation Plan**
+#### **7.1. Review the Implementation Plan**
 
 - The implementation plan is crafted and provided by the Survey Firm, It must be comprehensive, addressing all potential challenges such as the local school calendar, typical weather conditions that might affect travel, and potential school closures. This plan should detail a weekly schedule that outlines how many schools are to be visited each week, ensuring that logistical and regional specifics are considered. The Task Team Leader (TTL) will utilize this plan as a guide to collaborate with the Survey Firm throughout the data collection phase, ensuring that all aspects of the project align with the ground realities.
 
 <div style="margin-top: 50px;"></div>
 
-#### **2. Monitor Weekly Progress**
+#### **7.2. Monitor Weekly Progress**
 
 -   Track the progress against the plan. If fewer schools are covered than planned, investigate the causes and coordinate with local educational authorities if necessary. The TTL should also ensure that the survey firm is adhering to the agreed-upon quality standards. A point of attention here is how many schools are being visited per day, and how much need there was of replacing schools - something that could affect the quality of the sampling, if replacemente is too high.
 
 <div style="margin-top: 50px;"></div>
 
-#### **3. Conduct High Frequency Checks**
+#### **7.3. Conduct High Frequency Checks**
 
 -   Regularly perform quality checks on the data collected and keep close contact with the Survey Firm. This step involves things such as:
 
@@ -36,11 +36,10 @@ Implementing a successful data collection involves working close to the Survey F
 
 <div style="margin-top: 50px;"></div>
 
-#### **4. Facilitate Problem Solving and Adjust the Plan**
+#### **7.4. Facilitate Problem Solving and Adjust the Plan**
 
 -   Actively engage in solving any problems that arise during data collection, such as access issues to schools or unexpected school closures. The TTL should be prepared to adjust the implementation plan as necessary to ensure that all schools are surveyed within the planned timeline.
 
 <div style="margin-top: 50px;"></div>
 
-### Resources and Support
 

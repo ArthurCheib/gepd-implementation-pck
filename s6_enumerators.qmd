@@ -15,7 +15,7 @@ It should be taken into consideration that the training sessions can either be i
 
 ## Step-by-step Guide
 
-#### **1. Differentiated Training Sessions**
+#### **6.1. Differentiated Training Sessions**
 
 #### **School Survey Training**
 
@@ -32,11 +32,11 @@ Accountability and Mandates (ACM), Quality of Bureaucracy (QB), Impartial Decisi
 
 <div style="margin-top: 50px;"></div>
 
-#### **2. Utilizing Training Materials**
+#### **6.2. Utilizing Training Materials**
 
 - Ensure all training materials, including the manual and the step-by-step guide, are readily available and tailored to the specifics of each survey type. 
 
-**2.1 - RESOURCES AVAILABLE:**
+**6.2.1 - RESOURCES AVAILABLE:**
 
 - **Download Training Materials - School Survey:**
 
@@ -48,7 +48,7 @@ Accountability and Mandates (ACM), Quality of Bureaucracy (QB), Impartial Decisi
 
 <div style="margin-top: 50px;"></div>
 
-#### **3. Pilot Testing**
+#### **6.3. Pilot Testing**
 
 - Conduct pilot tests in schools not part of the main sample to allow enumerators to practice and refine survey tools. This step is crucial to ensure that the survey tools are well understood and that enumerators are comfortable with the data collection process. 
 
