@@ -20,81 +20,25 @@ The onboarding email to the survey firm marks the beginning of Step 5. It formal
 
 **5.1.1 - RESOURCES AVAILABLE:**
 
-- **School Survey Instrument:** [English](https://github.com/ArthurCheib/gepd-implementation-pck/raw/main/websites-materials/step-1/SB2_GEPD%20Implementation%20Brief/SB2_GEPD%20Implementation%20Brief.pdf)
-|
-[French](https://github.com/ArthurCheib/gepd-implementation-pck/raw/main/websites-materials/step-1/SB2_GEPD%20Implementation%20Brief/SB2_GEPD-IMPLEMENT-Brief-French.pdf)
-|
-[Spanish]()
-|
-[Arabic]()
-|
-[Portuguese]()
+- **School Survey Instruments:** [School Instruments - English](https://github.com/ArthurCheib/gepd-implementation-pck/raw/main/websites-materials/step-1/SB2_GEPD%20Implementation%20Brief/SB2_GEPD%20Implementation%20Brief.pdf)
 
 - **Manual of the School Survey:**
-[English](https://github.com/ArthurCheib/gepd-implementation-pck/raw/main/websites-materials/step-1/SB2_GEPD%20Implementation%20Brief/SB2_GEPD%20Implementation%20Brief.pdf)
-|
-[French](https://github.com/ArthurCheib/gepd-implementation-pck/raw/main/websites-materials/step-1/SB2_GEPD%20Implementation%20Brief/SB2_GEPD-IMPLEMENT-Brief-French.pdf)
-|
-[Spanish]()
-|
-[Arabic]()
-|
-[Portuguese]()
+[Manual - English](https://github.com/ArthurCheib/gepd-implementation-pck/raw/main/websites-materials/step-1/SB2_GEPD%20Implementation%20Brief/SB2_GEPD%20Implementation%20Brief.pdf)
 
 - **Step-by-step Guide for the School Survey:**
-[English](https://github.com/ArthurCheib/gepd-implementation-pck/raw/main/websites-materials/step-1/SB2_GEPD%20Implementation%20Brief/SB2_GEPD%20Implementation%20Brief.pdf)
-|
-[French](https://github.com/ArthurCheib/gepd-implementation-pck/raw/main/websites-materials/step-1/SB2_GEPD%20Implementation%20Brief/SB2_GEPD-IMPLEMENT-Brief-French.pdf)
-|
-[Spanish]()
-|
-[Arabic]()
-|
-[Portuguese]()
+[Step-by-Step Guide - English](https://github.com/ArthurCheib/gepd-implementation-pck/raw/main/websites-materials/step-1/SB2_GEPD%20Implementation%20Brief/SB2_GEPD%20Implementation%20Brief.pdf)
 
-- **Survey of Public Officials Instrument:**
-[English](https://github.com/ArthurCheib/gepd-implementation-pck/raw/main/websites-materials/step-1/SB2_GEPD%20Implementation%20Brief/SB2_GEPD%20Implementation%20Brief.pdf)
-|
-[French](https://github.com/ArthurCheib/gepd-implementation-pck/raw/main/websites-materials/step-1/SB2_GEPD%20Implementation%20Brief/SB2_GEPD-IMPLEMENT-Brief-French.pdf)
-|
-[Spanish]()
-|
-[Arabic]()
-|
-[Portuguese]()
+- **Survey of Public Officials Instruments:**
+[Survey of Public Official Instruments - English](https://github.com/ArthurCheib/gepd-implementation-pck/raw/main/websites-materials/step-1/SB2_GEPD%20Implementation%20Brief/SB2_GEPD%20Implementation%20Brief.pdf)
 
 - **Manual of the Survey of Public Officials:**
-[English](https://github.com/ArthurCheib/gepd-implementation-pck/raw/main/websites-materials/step-1/SB2_GEPD%20Implementation%20Brief/SB2_GEPD%20Implementation%20Brief.pdf)
-|
-[French](https://github.com/ArthurCheib/gepd-implementation-pck/raw/main/websites-materials/step-1/SB2_GEPD%20Implementation%20Brief/SB2_GEPD-IMPLEMENT-Brief-French.pdf)
-|
-[Spanish]()
-|
-[Arabic]()
-|
-[Portuguese]()
+[Manual - English](https://github.com/ArthurCheib/gepd-implementation-pck/raw/main/websites-materials/step-1/SB2_GEPD%20Implementation%20Brief/SB2_GEPD%20Implementation%20Brief.pdf)
 
 - **Step-by-step Guide for the Survey of Public Officials:**
-[English](https://github.com/ArthurCheib/gepd-implementation-pck/raw/main/websites-materials/step-1/SB2_GEPD%20Implementation%20Brief/SB2_GEPD%20Implementation%20Brief.pdf)
-|
-[French](https://github.com/ArthurCheib/gepd-implementation-pck/raw/main/websites-materials/step-1/SB2_GEPD%20Implementation%20Brief/SB2_GEPD-IMPLEMENT-Brief-French.pdf)
-|
-[Spanish]()
-|
-[Arabic]()
-|
-[Portuguese]()
+[Step-by-step - English](https://github.com/ArthurCheib/gepd-implementation-pck/raw/main/websites-materials/step-1/SB2_GEPD%20Implementation%20Brief/SB2_GEPD%20Implementation%20Brief.pdf)
 
 - **Recordings of Previous Survey Firm's Training:**
-[English](https://github.com/ArthurCheib/gepd-implementation-pck/raw/main/websites-materials/step-1/SB2_GEPD%20Implementation%20Brief/SB2_GEPD%20Implementation%20Brief.pdf)
-|
-[French](https://github.com/ArthurCheib/gepd-implementation-pck/raw/main/websites-materials/step-1/SB2_GEPD%20Implementation%20Brief/SB2_GEPD-IMPLEMENT-Brief-French.pdf)
-|
-[Spanish]()
-|
-[Arabic]()
-|
-[Portuguese]()
+[Videos](https://github.com/ArthurCheib/gepd-implementation-pck/raw/main/websites-materials/step-1/SB2_GEPD%20Implementation%20Brief/SB2_GEPD%20Implementation%20Brief.pdf)
 
 In addition, the email outlines the immediate steps for the firm, which include:
 -   Adapting instruments to the Country of implementation's reality
@@ -108,15 +52,8 @@ In addition, the email outlines the immediate steps for the firm, which include:
 The kick-off meeting, is the space for the TTL to ensure that the project's scope, timeline, and roles are all clear for the survey firm. It's the moment to go through the contract details, including deliverables and quality standards, so addressing initial questions and setting clear expectations are key. The TTL should highlight critical milestones and discuss immediate preparatory steps.
 
 As a resource, this **Meeting's FAQ** might prove useful: 
-[English](https://github.com/ArthurCheib/gepd-implementation-pck/raw/main/websites-materials/step-1/SB2_GEPD%20Implementation%20Brief/SB2_GEPD%20Implementation%20Brief.pdf)
-|
-[French](https://github.com/ArthurCheib/gepd-implementation-pck/raw/main/websites-materials/step-1/SB2_GEPD%20Implementation%20Brief/SB2_GEPD-IMPLEMENT-Brief-French.pdf)
-|
-[Spanish]()
-|
-[Arabic]()
-|
-[Portuguese]()
+
+[FAQ - English](https://github.com/ArthurCheib/gepd-implementation-pck/raw/main/websites-materials/step-1/SB2_GEPD%20Implementation%20Brief/SB2_GEPD%20Implementation%20Brief.pdf)
 
 <div style="margin-top: 50px;"></div>
 
