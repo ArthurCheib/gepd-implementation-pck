@@ -33,11 +33,44 @@
     ]
   },
   {
-    "objectID": "s9_validation.html#step-by-step-guide",
-    "href": "s9_validation.html#step-by-step-guide",
+    "objectID": "s9_validation.html#prepare-the-presentation",
+    "href": "s9_validation.html#prepare-the-presentation",
     "title": "9. Validating the Results",
-    "section": "Step-by-step Guide",
-    "text": "Step-by-step Guide\n\n1. Prepare the Presentation\n\nThe World Bank team prepares a PowerPoint presentation summarizing the key survey results. The content is agreed upon by both the GEPD and country teams.\nThis presentation is used during the stakeholder validation session to facilitate discussions on the key findings.\n\n\n\n\n\n\n2. Coordinate the Validation Session\n\nThe World Bank country team sets the date for the validation session - that can happen in-person or remote - and invites relevant government officials. Key development partners and the survey firm may also be invited.\nThe session usually lasts 1.5-2 hours, starting with the World Bank team presenting the results, followed by a discussion with the participants.\n\n\n\n\n\n\n3. Address Questions and Make Revisions\n\nThe World Bank team answers any questions or clarifies details that arise during the session. Any additional resources (such as notes on sampling) can be shared as needed.\nIf the government requests changes, these are discussed and incorporated where appropriate.\n\n\n\n\n\n\n4. Finalizing the Data\n\nIf there are no objections from the government after the session, the data is considered ready for publication.",
+    "section": "9.1 - Prepare the Presentation",
+    "text": "9.1 - Prepare the Presentation\n\nThe World Bank team prepares a PowerPoint presentation summarizing the key survey results. The content is agreed upon by both the GEPD and country teams.\nThis presentation is used during the stakeholder validation session to facilitate discussions on the key findings.",
+    "crumbs": [
+      "Implementation Package",
+      "9. Validating the Results"
+    ]
+  },
+  {
+    "objectID": "s9_validation.html#coordinate-the-validation-session",
+    "href": "s9_validation.html#coordinate-the-validation-session",
+    "title": "9. Validating the Results",
+    "section": "9.2 - Coordinate the Validation Session",
+    "text": "9.2 - Coordinate the Validation Session\n\nThe World Bank country team sets the date for the validation session - that can happen in-person or remote - and invites relevant government officials. Key development partners and the survey firm may also be invited.\nThe session usually lasts 1.5-2 hours, starting with the World Bank team presenting the results, followed by a discussion with the participants.",
+    "crumbs": [
+      "Implementation Package",
+      "9. Validating the Results"
+    ]
+  },
+  {
+    "objectID": "s9_validation.html#address-questions-and-make-revisions",
+    "href": "s9_validation.html#address-questions-and-make-revisions",
+    "title": "9. Validating the Results",
+    "section": "9.3 - Address Questions and Make Revisions",
+    "text": "9.3 - Address Questions and Make Revisions\n\nThe World Bank team answers any questions or clarifies details that arise during the session. Any additional resources (such as notes on sampling) can be shared as needed.\nIf the government requests changes, these are discussed and incorporated where appropriate.",
+    "crumbs": [
+      "Implementation Package",
+      "9. Validating the Results"
+    ]
+  },
+  {
+    "objectID": "s9_validation.html#finalizing-the-data",
+    "href": "s9_validation.html#finalizing-the-data",
+    "title": "9. Validating the Results",
+    "section": "9.4 - Finalizing the Data",
+    "text": "9.4 - Finalizing the Data\n\nIf there are no objections from the government after the session, the data is considered ready for publication.",
     "crumbs": [
       "Implementation Package",
       "9. Validating the Results"
@@ -55,11 +88,33 @@
     ]
   },
   {
-    "objectID": "s6_enumerators.html#step-by-step-guide",
-    "href": "s6_enumerators.html#step-by-step-guide",
+    "objectID": "s6_enumerators.html#differentiated-training-sessions",
+    "href": "s6_enumerators.html#differentiated-training-sessions",
     "title": "6. Training Enumerators and Piloting",
-    "section": "Step-by-step Guide",
-    "text": "Step-by-step Guide\n\n6.1. Differentiated Training Sessions\n\n\nSchool Survey Training\nFive days of comprehensive training, focusing on the 1:1 assessment methodology with first graders. The School Survey collects data primarily on Practices (the quality of service delivery in schools), but also on some de facto Policy and school-level Politics indicators. It consists of streamlined versions of existing instruments—including Service Delivery Indicator (SDI) Surveys, Teach, Global Early Child Development Database (GECDD), In-Service Teacher Training Instrument Survey (ITTSI), and the Development World Management Survey (DWMS)—together with new questions to fill gaps in those instruments.\nThe School Survey includes 8 short modules: Roster, School Information, Principal Questionnaire, Teacher Questionnaire, Classroom Observation, Teacher Assessment, Direct Assessment, and Student Assessment. For a team of two enumerators, it takes on average about 4 hours to collect all information in a given school.\n\n\nPublic Officials Survey Training\nTwo to five days focused on understanding administrative data and conducting professional interviews. The Public Officials Survey collects data on the quality of service delivery in public sector organizations and it is comprised of 4 key modules: National Learning Goals (NLG), Accountability and Mandates (ACM), Quality of Bureaucracy (QB), Impartial Decision-making (IDM)\n\n\n\n\n\n6.2. Utilizing Training Materials\n\nEnsure all training materials, including the manual and the step-by-step guide, are readily available and tailored to the specifics of each survey type.\n\n6.2.1 - RESOURCES AVAILABLE:\n\nDownload Training Materials - School Survey:\n\nInstruments | Training Manual | Step-by-Step Guide | Training Agenda & Presentations\n\nDownload Training Materials - Public Officials:\n\nInstruments | Training Manual | Step-by-Step Guide | Training Agenda & Presentations\n\n\n\n\n\n6.3. Pilot Testing\n\nConduct pilot tests in schools not part of the main sample to allow enumerators to practice and refine survey tools. This step is crucial to ensure that the survey tools are well understood and that enumerators are comfortable with the data collection process.\nHere, exists the possibility of integrating the feedback collected from enumerators during the training to adjust tools and questions to better fit the local context. This means that, after piloting, there is still some room to adjusting some of the wording or the way questions are asked.",
+    "section": "6.1. Differentiated Training Sessions",
+    "text": "6.1. Differentiated Training Sessions\n\nSchool Survey Training\nFive days of comprehensive training, focusing on the 1:1 assessment methodology with first graders. The School Survey collects data primarily on Practices (the quality of service delivery in schools), but also on some de facto Policy and school-level Politics indicators. It consists of streamlined versions of existing instruments—including Service Delivery Indicator (SDI) Surveys, Teach, Global Early Child Development Database (GECDD), In-Service Teacher Training Instrument Survey (ITTSI), and the Development World Management Survey (DWMS)—together with new questions to fill gaps in those instruments.\nThe School Survey includes 8 short modules: Roster, School Information, Principal Questionnaire, Teacher Questionnaire, Classroom Observation, Teacher Assessment, Direct Assessment, and Student Assessment. For a team of two enumerators, it takes on average about 4 hours to collect all information in a given school.\n\n\nPublic Officials Survey Training\nTwo to five days focused on understanding administrative data and conducting professional interviews. The Public Officials Survey collects data on the quality of service delivery in public sector organizations and it is comprised of 4 key modules: National Learning Goals (NLG), Accountability and Mandates (ACM), Quality of Bureaucracy (QB), Impartial Decision-making (IDM)",
+    "crumbs": [
+      "Implementation Package",
+      "6. Training Enumerators and Piloting"
+    ]
+  },
+  {
+    "objectID": "s6_enumerators.html#utilizing-training-materials",
+    "href": "s6_enumerators.html#utilizing-training-materials",
+    "title": "6. Training Enumerators and Piloting",
+    "section": "6.2. Utilizing Training Materials",
+    "text": "6.2. Utilizing Training Materials\n\nEnsure all training materials, including the manual and the step-by-step guide, are readily available and tailored to the specifics of each survey type.\n\n\nResources Available for 6.2:\n\nDownload Training Materials - School Survey:\n\nInstruments | Training Manual | Step-by-Step Guide | Training Agenda & Presentations\n\nDownload Training Materials - Public Officials:\n\nInstruments | Training Manual | Step-by-Step Guide | Training Agenda & Presentations",
+    "crumbs": [
+      "Implementation Package",
+      "6. Training Enumerators and Piloting"
+    ]
+  },
+  {
+    "objectID": "s6_enumerators.html#pilot-testing",
+    "href": "s6_enumerators.html#pilot-testing",
+    "title": "6. Training Enumerators and Piloting",
+    "section": "6.3. Pilot Testing",
+    "text": "6.3. Pilot Testing\n\nConduct pilot tests in schools not part of the main sample to allow enumerators to practice and refine survey tools. This step is crucial to ensure that the survey tools are well understood and that enumerators are comfortable with the data collection process.\nHere, exists the possibility of integrating the feedback collected from enumerators during the training to adjust tools and questions to better fit the local context. This means that, after piloting, there is still some room to adjusting some of the wording or the way questions are asked.",
     "crumbs": [
       "Implementation Package",
       "6. Training Enumerators and Piloting"
@@ -77,11 +132,55 @@
     ]
   },
   {
-    "objectID": "s1_confirm-country.html#step-by-step-guide",
-    "href": "s1_confirm-country.html#step-by-step-guide",
+    "objectID": "s1_confirm-country.html#opportunity-window-identifying-a-need-for-the-dashboard",
+    "href": "s1_confirm-country.html#opportunity-window-identifying-a-need-for-the-dashboard",
     "title": "1. Confirming Country’s Participation",
-    "section": "Step-by-step Guide",
-    "text": "Step-by-step Guide\n\n1.1 - Opportunity Window: Identifying a need for the Dashboard\nAt this moment, the task is to pinpoint a specific need within a country that the GEPD can effectively address. This process might involve analyzing situations where the Dashboard can serve as a potent solution. These needs can be identified proactively by investigating the country’s education policy landscape or in response to a direct request from the country. The goal is to establish the GEPD as a fitting tool that aligns with the country’s educational objectives and challenges.\n\n\n\n\n\n1.2 - Requesting an Initial Meeting\nIn this phase, the focus shifts to the TTL arranging an initial meeting with key stakeholders in the potential counterpart country. This meeting is planned to last 60-90 minutes, and is intended to delve deeper into the Dashboard’s capabilities and relevance to the country’s needs. Preparation for this meeting involves sending a well-crafted introductory email to the country’s representatives, accompanied by essential GEPD’s resources and the link for GEPD’s Website. These documents should provide more details on the Dashboard, illustrating its capacity to meet the country’s specific data requirements.\n1.2.1 - RESOURCES AVAILABLE:\n\nImplementation Brief: English | French | Spanish | Arabic | Portuguese\nReference Guide: English | French | Spanish | Arabic | Portuguese\nSample Email: English | French | Spanish | Arabic | Portuguese\n\n\n\n\n\n\n1.3 - Conducting the Meeting\nOnce the initial meeting is set, the TTL prepares to lead the discussion. The suggested agenda for the meeting is for it to start with a 20-minute presentation on the GEPD, utilizing the provided sample presentation, which needs to be tailored for the country in question. The presentation aims to give a comprehensive overview of the Dashboard’s functionality and benefits. Following the presentation, the TTL dedicates the remaining time to address various key aspects, such as:\n\nResponding to questions about the project’s scope, objectives, and potential impact.\nDiscussing the specifics of the implementation process.\nDetailing the requirements from the country:\n\nAppointing a focal point;\nProviding necessary information for sampling;\nUnderstanding the required approvals documents.\n\nAiming to confirm the country’s participation in the GEPD\n\n1.3.1 - RESOURCES AVAILABLE:\n\nSample Presentation: English | French | Spanish | Arabic | Portuguese\nMeeting’s FAQ: English | French | Spanish | Arabic | Portuguese\n\n\n\n\n\n\n1.4 - Next Steps Email (following-up after Initial Meeting)\nAfter the initial meeting, the following action is to send a comprehensive follow-up email to the country’s representatives. This email should be structured to provide clarity and direction, ensuring the country’s representatives are fully informed of the requirements and upcoming phases in the GEPD implementation process. Its essential purposes are:\n\nReiteration and Documentation: It includes the presentation delivered during the meeting as an attachment, serving as a reference point and reinforcing the discussed topics.\nConfirmation of Participation: If the country’s participation was confirmed during the meeting, the email will formally acknowledge this and express appreciation for the commitment.\nOutlining Next Steps: Importantly, the email will detail the subsequent steps required to move the GEPD project forward. This includes:\n\nCreating a project timeline, providing a clear schedule of activities and milestones.\nRequesting sample data for the schools and public officials survey, guided by the attached Excel table format.\nEstablishing contact with the focal point to facilitate data collection and follow-up communications.\nProvide the counterpart with all the actions needed from their side\n\n\n1.4.1 - RESOURCES AVAILABLE:\n\nNext Steps Sample Email: English | French | Spanish | Arabic | Portuguese\nSchool Information: English | French | Spanish | Arabic | Portuguese\n\n\n\n\n\n\n1.5 - Establishing Channels of Communication\nOnce the country’s participation is confirmed and the first communications starts to happen, the TTL’s role shifts towards maintaining momentum and ensuring effective communication. The primary focus at this stage involves two critical aspects:\n\nRefining the Project Timeline: The TTL must work closely with the country’s team to develop a comprehensive timeline for the GEPD implementation. This timeline should outline all key phases, milestones, and deadlines, providing a clear roadmap for the project.\nFacilitating Information and Data Exchange: Ongoing interaction between the TTL and the country’s team is essential. The TTL will coordinate the exchange of necessary information and data, ensuring that both sides have what they need for successful implementation. This exchange is crucial for tailoring the GEPD to the country’s specific needs.\n\nThe TTL should approach this phase with a focus on clear, consistent communication and collaboration. Keeping the lines of communication open will ensure that any challenges or questions are promptly addressed, and the project stays on track.",
+    "section": "1.1 - Opportunity Window: Identifying a need for the Dashboard",
+    "text": "1.1 - Opportunity Window: Identifying a need for the Dashboard\nAt this moment, the task is to pinpoint a specific need within a country that the GEPD can effectively address. This process might involve analyzing situations where the Dashboard can serve as a potent solution. These needs can be identified proactively by investigating the country’s education policy landscape or in response to a direct request from the country. The goal is to establish the GEPD as a fitting tool that aligns with the country’s educational objectives and challenges.",
+    "crumbs": [
+      "Implementation Package",
+      "1. Confirming Country's Participation"
+    ]
+  },
+  {
+    "objectID": "s1_confirm-country.html#requesting-an-initial-meeting",
+    "href": "s1_confirm-country.html#requesting-an-initial-meeting",
+    "title": "1. Confirming Country’s Participation",
+    "section": "1.2 - Requesting an Initial Meeting",
+    "text": "1.2 - Requesting an Initial Meeting\nIn this phase, the focus shifts to the TTL arranging an initial meeting with key stakeholders in the potential counterpart country. This meeting is planned to last 60-90 minutes, and is intended to delve deeper into the Dashboard’s capabilities and relevance to the country’s needs. Preparation for this meeting involves sending a well-crafted introductory email to the country’s representatives, accompanied by essential GEPD’s resources and the link for GEPD’s Website. These documents should provide more details on the Dashboard, illustrating its capacity to meet the country’s specific data requirements.\n\nResources Available for 1.2:\n\nImplementation Brief: English | French | Spanish | Arabic | Portuguese\nReference Guide: English | French | Spanish | Arabic | Portuguese\nSample Email: English | French | Spanish | Arabic | Portuguese",
+    "crumbs": [
+      "Implementation Package",
+      "1. Confirming Country's Participation"
+    ]
+  },
+  {
+    "objectID": "s1_confirm-country.html#conducting-the-meeting",
+    "href": "s1_confirm-country.html#conducting-the-meeting",
+    "title": "1. Confirming Country’s Participation",
+    "section": "1.3 - Conducting the Meeting",
+    "text": "1.3 - Conducting the Meeting\nOnce the initial meeting is set, the TTL prepares to lead the discussion. The suggested agenda for the meeting is for it to start with a 20-minute presentation on the GEPD, utilizing the provided sample presentation, which needs to be tailored for the country in question. The presentation aims to give a comprehensive overview of the Dashboard’s functionality and benefits. Following the presentation, the TTL dedicates the remaining time to address various key aspects, such as:\n\nResponding to questions about the project’s scope, objectives, and potential impact.\nDiscussing the specifics of the implementation process.\nDetailing the requirements from the country:\n\nAppointing a focal point;\nProviding necessary information for sampling;\nUnderstanding the required approvals documents.\n\nAiming to confirm the country’s participation in the GEPD\n\n\nResources Available for 1.3:\n\nSample Presentation: English | French | Spanish | Arabic | Portuguese\nMeeting’s FAQ: English | French | Spanish | Arabic | Portuguese",
+    "crumbs": [
+      "Implementation Package",
+      "1. Confirming Country's Participation"
+    ]
+  },
+  {
+    "objectID": "s1_confirm-country.html#next-steps-email-following-up-after-initial-meeting",
+    "href": "s1_confirm-country.html#next-steps-email-following-up-after-initial-meeting",
+    "title": "1. Confirming Country’s Participation",
+    "section": "1.4 - Next Steps Email (following-up after Initial Meeting)",
+    "text": "1.4 - Next Steps Email (following-up after Initial Meeting)\nAfter the initial meeting, the following action is to send a comprehensive follow-up email to the country’s representatives. This email should be structured to provide clarity and direction, ensuring the country’s representatives are fully informed of the requirements and upcoming phases in the GEPD implementation process. Its essential purposes are:\n\nReiteration and Documentation: It includes the presentation delivered during the meeting as an attachment, serving as a reference point and reinforcing the discussed topics.\nConfirmation of Participation: If the country’s participation was confirmed during the meeting, the email will formally acknowledge this and express appreciation for the commitment.\nOutlining Next Steps: Importantly, the email will detail the subsequent steps required to move the GEPD project forward. This includes:\n\nCreating a project timeline, providing a clear schedule of activities and milestones.\nRequesting sample data for the schools and public officials survey, guided by the attached Excel table format.\nEstablishing contact with the focal point to facilitate data collection and follow-up communications.\nProvide the counterpart with all the actions needed from their side\n\n\n\nResources Available for 1.4:\n\nNext Steps Sample Email: English | French | Spanish | Arabic | Portuguese\nSchool Information: English | French | Spanish | Arabic | Portuguese",
+    "crumbs": [
+      "Implementation Package",
+      "1. Confirming Country's Participation"
+    ]
+  },
+  {
+    "objectID": "s1_confirm-country.html#establishing-channels-of-communication",
+    "href": "s1_confirm-country.html#establishing-channels-of-communication",
+    "title": "1. Confirming Country’s Participation",
+    "section": "1.5 - Establishing Channels of Communication",
+    "text": "1.5 - Establishing Channels of Communication\nOnce the country’s participation is confirmed and the first communications starts to happen, the TTL’s role shifts towards maintaining momentum and ensuring effective communication. The primary focus at this stage involves two critical aspects:\n\nRefining the Project Timeline: The TTL must work closely with the country’s team to develop a comprehensive timeline for the GEPD implementation. This timeline should outline all key phases, milestones, and deadlines, providing a clear roadmap for the project.\nFacilitating Information and Data Exchange: Ongoing interaction between the TTL and the country’s team is essential. The TTL will coordinate the exchange of necessary information and data, ensuring that both sides have what they need for successful implementation. This exchange is crucial for tailoring the GEPD to the country’s specific needs.\n\nThe TTL should approach this phase with a focus on clear, consistent communication and collaboration. Keeping the lines of communication open will ensure that any challenges or questions are promptly addressed, and the project stays on track.",
     "crumbs": [
       "Implementation Package",
       "1. Confirming Country's Participation"
@@ -110,11 +209,55 @@
     ]
   },
   {
-    "objectID": "s4_survey-firm.html#step-by-step-guide",
-    "href": "s4_survey-firm.html#step-by-step-guide",
+    "objectID": "s4_survey-firm.html#ensure-rfxs-accreditation",
+    "href": "s4_survey-firm.html#ensure-rfxs-accreditation",
     "title": "4. Procuring Survey Firm",
-    "section": "Step-by-step Guide",
-    "text": "Step-by-step Guide\n\n4.1. Ensure RFX’s Accreditation\n\nConfirm that you or someone in the team - with powers to have it - have the necessary RFX accreditation to use the World Bank’s procurement platform. This is essential for initiating and managing the procurement process.\nRFX’s Platform has a lot of resources available teaching how to be properly used. In an extra section that can be found at the bottom of this page we share some of them.\n\n\n\n\n\n\n4.2. Draft the Expression of Interest (EOI)\n\nCreate an EOI document, clearly outlining the requirements and expectations for the survey firm. Ensure the EOI is concise yet comprehensive.\n\n4.2.1 - RESOURCES AVAILABLE:\n\nDownload Sample EOI: English | French\n\n\n\n\n\n\n4.3. Draft the Terms of Reference (ToR)\n\nPrepare the ToR, detailing the scope of work, responsibilities, and qualifications needed from the survey firm. A sample for you to edit is provided below, just ensure that the ToR aligns with GEPD’s project goals.\n\n4.3.1 - RESOURCES AVAILABLE:\n\nDownload Sample ToR: English | French\n\n\n\n\n\n\n4.4 Launch the EOI\n\nPublish the EOI on the Bank’s procurement platform, making it available for potential firms to apply. Set a reasonable deadline for submissions, typically 2-3 weeks so they can submit their proposals.\n\n\n\n\n\n\n4.5. Score Matching received Proposals & Identifying Winning Firm\n\nAfter the EOI deadline, review all submissions and shortlist firms based on their initial proposals. Proposals will then be scored on how well they meet the technical requirements outlined in the ToR. When technical scores are submitted and locked, then the financial proposals can be open (the system will generate score automatically for financials). Based on that, winning firm is identified.\nAfter identifying the winner, allow 1-2 weeks for contract to be signed / processed. After that make sure to arrange a kickoff meeting with the winning Survey Firm - a moment of first contact after Procurement Process is over.\n\n\n\n\n\n\nResources to use RFX’s Platform\nClick here to access it: RFX’s Platform\n\nUnderstanding Procurement Types and User Roles\nInitiating a Competitive Procurement\nRFX Ten Tips on how to use it\nFAQ about using RFX\nOnline Training Session on how to use RFX",
+    "section": "4.1. Ensure RFX’s Accreditation",
+    "text": "4.1. Ensure RFX’s Accreditation\n\nConfirm that you or someone in the team - with powers to have it - have the necessary RFX accreditation to use the World Bank’s procurement platform. This is essential for initiating and managing the procurement process.\nRFX’s Platform has a lot of resources available teaching how to be properly used. In an extra section that can be found at the bottom of this page we share some of them.",
+    "crumbs": [
+      "Implementation Package",
+      "4. Procuring Survey Firm"
+    ]
+  },
+  {
+    "objectID": "s4_survey-firm.html#draft-the-expression-of-interest-eoi",
+    "href": "s4_survey-firm.html#draft-the-expression-of-interest-eoi",
+    "title": "4. Procuring Survey Firm",
+    "section": "4.2. Draft the Expression of Interest (EOI)",
+    "text": "4.2. Draft the Expression of Interest (EOI)\n\nCreate an EOI document, clearly outlining the requirements and expectations for the survey firm. Ensure the EOI is concise yet comprehensive.\n\n\nResources Available for 4.2:\n\nDownload Sample EOI: English | French",
+    "crumbs": [
+      "Implementation Package",
+      "4. Procuring Survey Firm"
+    ]
+  },
+  {
+    "objectID": "s4_survey-firm.html#draft-the-terms-of-reference-tor",
+    "href": "s4_survey-firm.html#draft-the-terms-of-reference-tor",
+    "title": "4. Procuring Survey Firm",
+    "section": "4.3. Draft the Terms of Reference (ToR)",
+    "text": "4.3. Draft the Terms of Reference (ToR)\n\nPrepare the ToR, detailing the scope of work, responsibilities, and qualifications needed from the survey firm. A sample for you to edit is provided below, just ensure that the ToR aligns with GEPD’s project goals.\n\n\nResources Available for 4.3:\n\nDownload Sample ToR: English | French",
+    "crumbs": [
+      "Implementation Package",
+      "4. Procuring Survey Firm"
+    ]
+  },
+  {
+    "objectID": "s4_survey-firm.html#launch-the-eoi",
+    "href": "s4_survey-firm.html#launch-the-eoi",
+    "title": "4. Procuring Survey Firm",
+    "section": "4.4 Launch the EOI",
+    "text": "4.4 Launch the EOI\n\nPublish the EOI on the Bank’s procurement platform, making it available for potential firms to apply. Set a reasonable deadline for submissions, typically 2-3 weeks so they can submit their proposals.",
+    "crumbs": [
+      "Implementation Package",
+      "4. Procuring Survey Firm"
+    ]
+  },
+  {
+    "objectID": "s4_survey-firm.html#score-matching-received-proposals-identifying-winning-firm",
+    "href": "s4_survey-firm.html#score-matching-received-proposals-identifying-winning-firm",
+    "title": "4. Procuring Survey Firm",
+    "section": "4.5. Score Matching received Proposals & Identifying Winning Firm",
+    "text": "4.5. Score Matching received Proposals & Identifying Winning Firm\n\nAfter the EOI deadline, review all submissions and shortlist firms based on their initial proposals. Proposals will then be scored on how well they meet the technical requirements outlined in the ToR. When technical scores are submitted and locked, then the financial proposals can be open (the system will generate score automatically for financials). Based on that, winning firm is identified.\nAfter identifying the winner, allow 1-2 weeks for contract to be signed / processed. After that make sure to arrange a kickoff meeting with the winning Survey Firm - a moment of first contact after Procurement Process is over.\n\n\n\n\n\nResources to use RFX’s Platform\nClick here to access it: RFX’s Platform\n\nUnderstanding Procurement Types and User Roles\nInitiating a Competitive Procurement\nRFX Ten Tips on how to use it\nFAQ about using RFX\nOnline Training Session on how to use RFX",
     "crumbs": [
       "Implementation Package",
       "4. Procuring Survey Firm"
@@ -132,11 +275,44 @@
     ]
   },
   {
-    "objectID": "s5_field-work.html#step-by-step-guide",
-    "href": "s5_field-work.html#step-by-step-guide",
+    "objectID": "s5_field-work.html#email-for-onboarding-the-survey-firm",
+    "href": "s5_field-work.html#email-for-onboarding-the-survey-firm",
     "title": "5. Preparing Field Work",
-    "section": "Step-by-step Guide",
-    "text": "Step-by-step Guide\n\n5.1. Email for Onboarding the Survey Firm:\nThe onboarding email to the survey firm marks the beginning of Step 5. It formally welcomes the firm and provides essential information and resources for the project. The email - a sample of it can be downloaded below too - should include attached the following documents:\n5.1.1 - RESOURCES AVAILABLE:\n\nSchool Survey Instruments: English\nManual of the School Survey: English\nStep-by-step Guide for the School Survey: English\nSurvey of Public Officials Instruments: English\nManual of the Survey of Public Officials: English\nStep-by-step Guide for the Survey of Public Officials: English\nRecordings of Previous Survey Firm’s Training: Videos\n\nIn addition, the email outlines the immediate steps for the firm, which include: - Adapting instruments to the Country of implementation’s reality - Planning on translations of the Instruments - if applicable - Inviting the Firm to a kick-off meeting.\n\n\n\n\n\n5.2. Kick-off Meeting with the Firm\nThe kick-off meeting, is the space for the TTL to ensure that the project’s scope, timeline, and roles are all clear for the survey firm. It’s the moment to go through the contract details, including deliverables and quality standards, so addressing initial questions and setting clear expectations are key. The TTL should highlight critical milestones and discuss immediate preparatory steps.\n\n5.2.1 - RESOURCES AVAILABLE:\nFAQ - English\n\n\n\n\n\n\n5.3. Introduce the Firm to Survey Solutions\nAs part of the fieldwork preparation, it’s crucial to integrate the Survey Solutions tool for managing and deploying surveys effectively. This involves granting the survey firm access and providing necessary training on using the platform.\nSteps to Integrate Survey Solutions:\n\nGranting Access: The survey firm will receive access to the Survey Solutions platform through a headquarters account. This allows them to work with the instrument, manage data collection, but does not grant them the ability to modify the survey design directly.\nTechnical Session: For the TTL this is likely the most relevant part within this sub-step. A technical session is necessary to train the survey firm on using Survey Solutions. This session covers essential topics like user creation, assignment setup, and understanding the approval process. Typically, the firm learns to create users and set up assignments in bulk, manage interviews, and monitor data collection.\nPiloting Phase: Before full deployment, the firm will use Survey Solutions to run a pilot test. This phase is critical for identifying any issues with the survey instrument or data collection process. During piloting, the firm can provide feedback on question clarity and flow, which the team can address before the full rollout. Understanding how to version control works within the platform is key here.\nTranslations and Version Control: Survey Solutions allows for easy accommodation of multiple languages through a downloadable template for translation - which after translation needs to be uploaded to the platform. Each country implementation can use its customized version, with the ability to toggle between languages on the platform.\n\nA very useful resource for this step is the Technical Session Manual, generously produced by a GEPD’s member. This guide is an essential resource for the survey firm, helping them familiarize themselves with the tool’s functionalities and ensuring a smoother onboarding process. It includes details on:\n\nAccessing the Survey Solutions platform\nCreating users and assignments\nInstalling Survey Solutions Apps\nMonitoring data collection\nDownloading data\n\n\n5.3 - RESOURCES AVAILABLE:\nTechnical Session Manual\n\n\n\n5.4. Supervising the Preparations of the Firm\nThe final step of Preparing the Field Work concerns the TTL responsibility of supervising the survey firm’s preparations, ensuring they meet GEPD standards and adhere to project timelines. This role might involve:\n\nEnsuring the Survey Firm have access to all necessary materials\nOverseeing the Survey Firm’s training process and pre-tests of the tools\nOverseeing the instrument adaptation, translations and elaboration of the field protocols\nAddressing the Survey Firm questions about the survey methodologies\n\nThe TTL must also confirm that logistical plans for field work are finalized. Regular check-ins are key for assessing the firm’s progress and addressing potential issues promptly.",
+    "section": "5.1. Email for Onboarding the Survey Firm:",
+    "text": "5.1. Email for Onboarding the Survey Firm:\nThe onboarding email to the survey firm marks the beginning of Step 5. It formally welcomes the firm and provides essential information and resources for the project. The email - a sample of it can be downloaded below too - should include attached the following documents:\n\nResources Available for 5.1:\n\nSchool Survey Instruments: English\nManual of the School Survey: English\nStep-by-step Guide for the School Survey: English\nSurvey of Public Officials Instruments: English\nManual of the Survey of Public Officials: English\nStep-by-step Guide for the Survey of Public Officials: English\nRecordings of Previous Survey Firm’s Training: Videos\n\nIn addition, the email outlines the immediate steps for the firm, which include: - Adapting instruments to the Country of implementation’s reality - Planning on translations of the Instruments - if applicable - Inviting the Firm to a kick-off meeting.",
+    "crumbs": [
+      "Implementation Package",
+      "5. Preparing Field Work"
+    ]
+  },
+  {
+    "objectID": "s5_field-work.html#kick-off-meeting-with-the-firm",
+    "href": "s5_field-work.html#kick-off-meeting-with-the-firm",
+    "title": "5. Preparing Field Work",
+    "section": "5.2. Kick-off Meeting with the Firm",
+    "text": "5.2. Kick-off Meeting with the Firm\nThe kick-off meeting, is the space for the TTL to ensure that the project’s scope, timeline, and roles are all clear for the survey firm. It’s the moment to go through the contract details, including deliverables and quality standards, so addressing initial questions and setting clear expectations are key. The TTL should highlight critical milestones and discuss immediate preparatory steps.\n\nResources Available for 5.2:\nFAQ - English",
+    "crumbs": [
+      "Implementation Package",
+      "5. Preparing Field Work"
+    ]
+  },
+  {
+    "objectID": "s5_field-work.html#introduce-the-firm-to-survey-solutions",
+    "href": "s5_field-work.html#introduce-the-firm-to-survey-solutions",
+    "title": "5. Preparing Field Work",
+    "section": "5.3. Introduce the Firm to Survey Solutions",
+    "text": "5.3. Introduce the Firm to Survey Solutions\nAs part of the fieldwork preparation, it’s crucial to integrate the Survey Solutions tool for managing and deploying surveys effectively. This involves granting the survey firm access and providing necessary training on using the platform.\nSteps to Integrate Survey Solutions:\n\nGranting Access: the survey firm will receive access to the Survey Solutions platform through a headquarters account. This allows them to work with the instrument, manage data collection, but does not grant them the ability to modify the survey design directly.\nTechnical Session: for the TTL this is likely the most relevant part within this sub-step. A technical session is necessary to train the survey firm on using Survey Solutions. This session covers essential topics like user creation, assignment setup, and understanding the approval process. Typically, the firm learns to create users and set up assignments in bulk, manage interviews, and monitor data collection.\nPiloting Phase: before full deployment, the firm will use Survey Solutions to run a pilot test. This phase is critical for identifying any issues with the survey instrument or data collection process. During piloting, the firm can provide feedback on question clarity and flow, which the team can address before the full rollout. Understanding how to version control works within the platform is key here.\nTranslations and Version Control: survey Solutions allows for easy accommodation of multiple languages through a downloadable template for translation - which after translation needs to be uploaded to the platform. Each country implementation can use its customized version, with the ability to toggle between languages on the platform.\n\nA very useful resource for this step is the Technical Session Manual, generously produced by a GEPD’s member. This guide is an essential resource for the survey firm, helping them familiarize themselves with the tool’s functionalities and ensuring a smoother onboarding process. It includes details on:\n\nAccessing the Survey Solutions platform\nCreating users and assignments\nInstalling Survey Solutions Apps\nMonitoring data collection\nDownloading data\n\n\nResources Available for 5.3:\nTechnical Session Manual",
+    "crumbs": [
+      "Implementation Package",
+      "5. Preparing Field Work"
+    ]
+  },
+  {
+    "objectID": "s5_field-work.html#supervising-the-preparations-of-the-firm",
+    "href": "s5_field-work.html#supervising-the-preparations-of-the-firm",
+    "title": "5. Preparing Field Work",
+    "section": "5.4. Supervising the Preparations of the Firm",
+    "text": "5.4. Supervising the Preparations of the Firm\nThe final step of Preparing the Field Work concerns the TTL responsibility of supervising the survey firm’s preparations, ensuring they meet GEPD standards and adhere to project timelines. This role might involve:\n\nEnsuring the Survey Firm have access to all necessary materials\nOverseeing the Survey Firm’s training process and pre-tests of the tools\nOverseeing the instrument adaptation, translations and elaboration of the field protocols\nAddressing the Survey Firm questions about the survey methodologies\n\nThe TTL must also confirm that logistical plans for field work are finalized. Regular check-ins are key for assessing the firm’s progress and addressing potential issues promptly.",
     "crumbs": [
       "Implementation Package",
       "5. Preparing Field Work"
@@ -198,11 +374,44 @@
     ]
   },
   {
-    "objectID": "s7_data-collection.html#step-by-step-guide",
-    "href": "s7_data-collection.html#step-by-step-guide",
+    "objectID": "s7_data-collection.html#review-the-implementation-plan",
+    "href": "s7_data-collection.html#review-the-implementation-plan",
     "title": "7. Collecting the Data",
-    "section": "Step-by-step Guide",
-    "text": "Step-by-step Guide\n\n7.1. Review the Implementation Plan\n\nThe implementation plan is crafted and provided by the Survey Firm, It must be comprehensive, addressing all potential challenges such as the local school calendar, typical weather conditions that might affect travel, and potential school closures. This plan should detail a weekly schedule that outlines how many schools are to be visited each week, ensuring that logistical and regional specifics are considered. The Task Team Leader (TTL) will utilize this plan as a guide to collaborate with the Survey Firm throughout the data collection phase, ensuring that all aspects of the project align with the ground realities.\n\n\n\n\n\n\n7.2. Monitor Weekly Progress\n\nTrack the progress against the plan. If fewer schools are covered than planned, investigate the causes and coordinate with local educational authorities if necessary. The TTL should also ensure that the survey firm is adhering to the agreed-upon quality standards. A point of attention here is how many schools are being visited per day, and how much need there was of replacing schools - something that could affect the quality of the sampling, if replacemente is too high.\n\n\n\n\n\n\n7.3. Conduct High Frequency Checks\n\nRegularly perform quality checks on the data collected and keep close contact with the Survey Firm. This step involves things such as:\n\n\nReviewing data entries for consistency;\nSpotting outliers answers;\nRun quality assurance checks;\nAnd pre-computing some of the indicators to see if data collected at that point seems reasonable when compared to indicators of similar Educational Systems already collected\n\n\n\n\n\n\n7.4. Facilitate Problem Solving and Adjust the Plan\n\nActively engage in solving any problems that arise during data collection, such as access issues to schools or unexpected school closures. The TTL should be prepared to adjust the implementation plan as necessary to ensure that all schools are surveyed within the planned timeline.",
+    "section": "7.1. Review the Implementation Plan",
+    "text": "7.1. Review the Implementation Plan\nThe implementation plan is crafted and provided by the Survey Firm, It must be comprehensive, addressing all potential challenges such as the local school calendar, typical weather conditions that might affect travel, and potential school closures. This plan should detail a weekly schedule that outlines how many schools are to be visited each week, ensuring that logistical and regional specifics are considered. The Task Team Leader (TTL) will utilize this plan as a guide to collaborate with the Survey Firm throughout the data collection phase, ensuring that all aspects of the project align with the ground realities.",
+    "crumbs": [
+      "Implementation Package",
+      "7. Collecting the Data"
+    ]
+  },
+  {
+    "objectID": "s7_data-collection.html#monitor-weekly-progress",
+    "href": "s7_data-collection.html#monitor-weekly-progress",
+    "title": "7. Collecting the Data",
+    "section": "7.2. Monitor Weekly Progress",
+    "text": "7.2. Monitor Weekly Progress\nTrack the progress against the plan. If fewer schools are covered than planned, investigate the causes and coordinate with local educational authorities if necessary. The TTL should also ensure that the survey firm is adhering to the agreed-upon quality standards. A point of attention here is how many schools are being visited per day, and how much need there was of replacing schools - something that could affect the quality of the sampling, if replacemente is too high.",
+    "crumbs": [
+      "Implementation Package",
+      "7. Collecting the Data"
+    ]
+  },
+  {
+    "objectID": "s7_data-collection.html#conduct-high-frequency-checks",
+    "href": "s7_data-collection.html#conduct-high-frequency-checks",
+    "title": "7. Collecting the Data",
+    "section": "7.3. Conduct High Frequency Checks",
+    "text": "7.3. Conduct High Frequency Checks\nRegularly perform quality checks on the data collected and keep close contact with the Survey Firm. This step involves things such as:\n\nReviewing data entries for consistency;\nSpotting outliers answers;\nRun quality assurance checks;\nAnd pre-computing some of the indicators to see if data collected at that point seems reasonable when compared to indicators of similar Educational Systems already collected",
+    "crumbs": [
+      "Implementation Package",
+      "7. Collecting the Data"
+    ]
+  },
+  {
+    "objectID": "s7_data-collection.html#facilitate-problem-solving-and-adjust-the-plan",
+    "href": "s7_data-collection.html#facilitate-problem-solving-and-adjust-the-plan",
+    "title": "7. Collecting the Data",
+    "section": "7.4. Facilitate Problem Solving and Adjust the Plan",
+    "text": "7.4. Facilitate Problem Solving and Adjust the Plan\nActively engage in solving any problems that arise during data collection, such as access issues to schools or unexpected school closures. The TTL should be prepared to adjust the implementation plan as necessary to ensure that all schools are surveyed within the planned timeline.",
     "crumbs": [
       "Implementation Package",
       "7. Collecting the Data"
@@ -213,7 +422,95 @@
     "href": "s8_computing.html",
     "title": "8. Computing Indicators",
     "section": "",
-    "text": "Back to top",
+    "text": "This guide provides detailed instructions on how to go from the raw data extracted from Survey Solutions, a software for data collection and survey management, to the production of a set of data and files essential for assessing national educational outcomes, specifically:\nThe GEPD collects country-level data through administering a survey with a set of modules:\nMain language: Stata 17 and higher (note that older versions of Stata are not compatible)\nAssisting language & tools: R, RStudio and GitHub Desktop\nNote: Ensure that both software installations are installed and updated before running the code.",
+    "crumbs": [
+      "Implementation Package",
+      "8. Computing Indicators"
+    ]
+  },
+  {
+    "objectID": "s8_computing.html#cloning-the-github-folder-to-your-local-device",
+    "href": "s8_computing.html#cloning-the-github-folder-to-your-local-device",
+    "title": "8. Computing Indicators",
+    "section": "8.1 - Cloning the GitHub folder to your local device",
+    "text": "8.1 - Cloning the GitHub folder to your local device\nThe raw data is downloaded from the survey solution and is saved on OneDrive; inside the respective country folder. These folders are added to GitHub as repositories to facilitate country collaboration and version control.\nInside each country’s folder/repository, the data workflow is organized across four sub-folders:\n\n01_GEPD_raw_data; contains the raw data files downloaded from the GEPD Survey Solutions Server. This folder contains three subfolders: a School folder for school data, a Public_Officials folder for data from the Survey of Public Officials, and a Policy_Survey folder for data from the expert Policy Survey.\n\n02_programs; contains the scripts that will be used to clean and process the raw data. There are separate sub-folders for each of the three data sources: School, Public_Officials, and Policy_Survey.\n\n03_GEPD_processed_data; contains the cleaned and anonymized data files. There are separate sub-folders for each of the three data sources: School, Public_Officials, and Policy_Survey.\n04_GEPD_Indicators; contains the set of final GEPD indicators.\n\nNote: Before working with the data, the user must first set-up the GitHub’s country folder/repository on the local machine either as “local repository” or “cloned repository”.\n\n8.1.1 - Adding local repository (recommended)\nThis is the recommended process If using a WB machine/VDI and having access rights to OneDrive where the data is stored.\nOn GitHub Desktop, click &lt;&lt;File&gt;&gt;, &lt;&lt;Add local repository&gt;&gt;, choose the country folder on OneDrive, then &lt;&lt;Add repository&gt;&gt;.\n\n\n8.1.2 - Clone the GitHub repository\nAlternatively, if the above-mentioned case is not applicable, a user could clone the GitHub’s country folder to their local device.\n\nOn the internet browser, go to the country’s repo on GitHub.\nAt the top right of the GitHub page, right click on the &lt;&lt;Code&gt;&gt; tab, then select the option to open the folder with GitHub Desktop.\nSet the directory path to where you would like the clone to be placed, then click &lt;&lt;Clone&gt;&gt;.\n\nThese steps will create an exact copy of this GitHub folder on your local computer with all the necessary folder structure, Stata code files and the template files needed to reproduce the GEPD indicators.",
+    "crumbs": [
+      "Implementation Package",
+      "8. Computing Indicators"
+    ]
+  },
+  {
+    "objectID": "s8_computing.html#downloading-the-raw-data-from-survey-solutions-to-the-cloned-folder",
+    "href": "s8_computing.html#downloading-the-raw-data-from-survey-solutions-to-the-cloned-folder",
+    "title": "8. Computing Indicators",
+    "section": "8.2 - Downloading the raw data from Survey Solutions to the cloned folder",
+    "text": "8.2 - Downloading the raw data from Survey Solutions to the cloned folder\nAfter the GitHub folder is cloned, the sub-folder 01_GEPD_raw_data would be sub-divided into folders corresponding to the survey level: School, Public_Officials, Policy_Survey, and Sampling. The user must download and place the raw data files, from survey solution, into the corresponding sub-folder. Please note: these raw data files are loaded once into Stata, and any processing to it will be saved as a copy into a different Cleaned folder as we are going to explain later —the user must avoid altering or overwriting the raw files.\nThe user must download all the data files related to:\n\nschool, teachers, Grade 1, and Grade 4 students into the School sub-folder.\n\npublic officials into the Public_Officials sub-folder.\n\nPolicy survey into Policy_Survey sub-folder.\n\nSampling and weights into Sampling sub-folder.\n\nThe process of downloading the data is as straightforward as: (a) signing in to the administrator account on the GEPD server on Survey Solutions with the relevant credentials, (b) selecting to the relevant country workspace (in the top left corner), (c) navigating to Data Export at the top panel and selected the survey template to export as well as the status Approved by HQ, and, (d) downloading all relevant questionnaire data (school survey and survey of public officials) related to this country. Typically, the data is exported in Stata 14 format and includes meta information.\nTo guide the user on which modules are being administered in each country, one can create a pdf download of the questionnaire in Survey Solutions Designer Open the questionnaire and select ‘Download PDF’ from the buttons in the top right corner of the interface. This will produce an HTML document containing questions divided by module, together with the variable names, answer options and skip patterns/constraints.\nA list is provided in the annex of what raw data files a user is expected to see downloaded into the raw data folder. A user may also note that the provided list is only a guidance, and it is not intended to be an exhaustive list of all raw data files that must exist across all countries.\nNote: If you do not have a Survey Solutions account, please get in touch with the GEPD team at educationdashboard@worldbank.org",
+    "crumbs": [
+      "Implementation Package",
+      "8. Computing Indicators"
+    ]
+  },
+  {
+    "objectID": "s8_computing.html#merging-teachers-modules",
+    "href": "s8_computing.html#merging-teachers-modules",
+    "title": "8. Computing Indicators",
+    "section": "8.3 - Merging teachers’ modules",
+    "text": "8.3 - Merging teachers’ modules\nTeachers are being surveyed in different modules (hence different datasets) and all the teachers’ data can be downloaded as separate data files from Survey Solutions. However, for the processing do-files to work as intended, teachers’ modules must be combined into a single data file. A heritage procedure attempts to do that using a fuzzy matching technique, which was developed to overcome the issue of the same teacher with different IDs across modules. Note that this step is unnecessary for present implementations of the GEPD (as well as for the Punjab and Sindh provinces of Pakistan, and Edo State in Nigeria), since the teachers in these surveys have consistent IDs across modules. Nonetheless, more information on fuzzy matching can be found in the annex.\nTo combine teachers’ modules, a user would need to execute a “joinby” command, or similar commands, which matches all modules based on two key variables “interview_key” and “teachers_id”.\nThe Stata scrip that merges teachers’ modules is titled &lt;&lt;02_school_data_merge.do&gt;&gt;. More information on this is provided int Step no.5 below.\nOnce the teachers’ modules are merged, the resulting teachers file is saved in the School sub-folder under 01_GEPD_raw_data with the title “Country_teacher_level_test.dta”",
+    "crumbs": [
+      "Implementation Package",
+      "8. Computing Indicators"
+    ]
+  },
+  {
+    "objectID": "s8_computing.html#running-the-initialization-do-files",
+    "href": "s8_computing.html#running-the-initialization-do-files",
+    "title": "8. Computing Indicators",
+    "section": "8.4 - Running the initialization do-files",
+    "text": "8.4 - Running the initialization do-files\nBefore running any of the processing code files, a user must run the initialization do-files located in the main folder titled GEPD_CountryX. These do-files will set the parameters and file paths for the code to run.\n\nGEPD_parameters.do allows the user to set the parameters specific to the country by specifying country name, year, strata, weight variables and file names, etc. Please adjust if needed for each country as some parameters may differ.\nprofile_GEPD.do should be opened in the same Stata console as parameters.do and allows for setting up file paths and data directories. Please note that this do-file would prompt the user to select on-screen the run_GEPD.do inside the countries folder. Ensure to select the correct run_GEPD.do which is inside the country folder where the data is stored.",
+    "crumbs": [
+      "Implementation Package",
+      "8. Computing Indicators"
+    ]
+  },
+  {
+    "objectID": "s8_computing.html#running-the-cleaning-and-processing-do-files",
+    "href": "s8_computing.html#running-the-cleaning-and-processing-do-files",
+    "title": "8. Computing Indicators",
+    "section": "8.5 - Running the cleaning and processing do-files",
+    "text": "8.5 - Running the cleaning and processing do-files\nAfter executing the previous step, on the same opened STATA console, run the processing do-files. The folder 02_programs\\School include three do-files needed to produce the necessary cleaned and merged datasets, which a user can either run at once by running the master script 01_school_run, or individually. Either case, please ensure that the following do-files are loaded in the same Stata session/console that ran the parameters and profile do-files:\n\n01_school_run is the master do-file which runs all the three following scripts.\n02_school_data_merge runs a program to merge variables from the sampling frame (weights, strata and other observable characteristics such as the location of the school) to each of the school-level datasets (g1 students, g4 students, teachers and school modules). In addition, it merges teachers’ modules and includes all the possible corrections for data entry mistakes in the school-level datasets. The input data is the downloaded raw data which is prespecified in the script. The outcome is four data files for each of those groups and are saved automatically in 03_GEPD_processed \\School\\Confidential\\Merged.\n03_school_data_cleaner cleans the data produced from the previous step and aggregates correlated variables to produce the GEPD indicators. The outcome is the four data files, as above, but cleaned, for each of those groups and are stored automatically in 03_GEPD_processed \\School\\Confidential\\Cleaned folder.\n\nNote: These datasets are only meant to be used by the WB team and not meant to be shared publicly since they are not yet anonymized.\n\n04_school_data_anonymizer anonymizes the data files produced from the previous step and stores the anonymized version of the four cleaned school-level data files in 03_GEPD_processed\\School\\Confidential\\Cleaned\\Anonymized. A user would need to tweak this do-file for each country before running it, this is an inevitable process, since part of the anonymization is country-specific. Information on what to tweak is listed inside the do-file.",
+    "crumbs": [
+      "Implementation Package",
+      "8. Computing Indicators"
+    ]
+  },
+  {
+    "objectID": "s8_computing.html#cleaning-public-officials-data",
+    "href": "s8_computing.html#cleaning-public-officials-data",
+    "title": "8. Computing Indicators",
+    "section": "8.6 - Cleaning public officials’ data",
+    "text": "8.6 - Cleaning public officials’ data\nThe process to clean public official data is nearly identical to cleaning the school-level data (Step 5). School data must be cleaned before the public officials’ files are cleaned. This is because the public officials are asked about teacher absence in the system and the answers are verified by checking against the GEPD teacher data.\nThe raw data files downloaded from Survey Solutions are located in 01_GEPD_raw_data/Public_Officials/public_officials.dta.\nTo clean the data, a user would need to execute two do files located in &lt;&lt;02_programs/Public_Officials/Stata&gt;&gt;:\n\nThe “01_public_officials_run.do” which will serve two functions:\n\nverify if the profile.do is loaded to set up the macros and paths, and if not loaded then; the user will be asked to first run the profile.do on the same opened Stata console, then;\nWill run and execute the second do-file to process the public officials’ raw data 02_public_officials_data_cleaner.do\n\nOnce the cleaning script is run successfully, the cleaned data can be found in &lt;&lt;03_GEPD_processed_data\\Public_Officials\\Confidential&gt;&gt;.",
+    "crumbs": [
+      "Implementation Package",
+      "8. Computing Indicators"
+    ]
+  },
+  {
+    "objectID": "s8_computing.html#cleaning-policy-experts-survey-data",
+    "href": "s8_computing.html#cleaning-policy-experts-survey-data",
+    "title": "8. Computing Indicators",
+    "section": "8.7 - Cleaning policy (experts) survey data",
+    "text": "8.7 - Cleaning policy (experts) survey data\nMeanwhile, expert data can only be processed using an R-script policy_survey.Rmd in /02_programs/Policy_Survey/R. At the top of the script, user would need to customize the information under “Country name and year of survey”. Detailed guidance on each step is given directly within the R-script. Note: to avoid problems with running any R script caused by directory set up, including the policy survey script, please open scripts using the Rstudio project titled GEPD_Production-countryname.Rproj, and found in the country’s folder.\nOnce the cleaning script is run successfully, the cleaned data can be found in &lt;&lt;03_GEPD_processed_data/Policy_Survey&gt;&gt;.",
+    "crumbs": [
+      "Implementation Package",
+      "8. Computing Indicators"
+    ]
+  },
+  {
+    "objectID": "s8_computing.html#producing-the-gepd-key-indicators",
+    "href": "s8_computing.html#producing-the-gepd-key-indicators",
+    "title": "8. Computing Indicators",
+    "section": "8.8 - Producing the GEPD key indicators",
+    "text": "8.8 - Producing the GEPD key indicators\nThe GEPD’s indicators are contained in an Excel file along with a unique key for each indicator. This file’s purpose is to cstore the set of indicators published on the GEPD website and used for populating the standard GEPD PowerPoint slides. In addition, these are the indicators available on the World Bank API. See https://databank.worldbank.org/source/education-policy.\nOnce the data (school – public officials – policy survey) has been processed from the previous steps, a user may proceed with running the indicators’ R-script which pulls all the cleaned datasets, aggregates them and produce a list of standard GEPD indicators. The R-script also organizes and stores this standard list of indicators into an (.xlsx) file and saves it under 04_GEPD_Indicators.\nPrior to running the R-script, a user must make sure that three template files are already part of the cloned folder:\n\nGEPD_indicator_template.csv; under sub-folder\n&lt;&lt;04_GEPD_Indicators&gt;&gt;\nFinance_scoring.xlsx; under\n&lt;&lt;03_GEPD_processed_data/Other_Indicators&gt;&gt;\nLearners_defacto_indicators.xlsx; under\n&lt;&lt;03_GEPD_processed_data/Other_Indicators&gt;&gt;\n\nThe R-script is titled GEPD_indicators.R and can be found in 02_programs/GEPD_Indicators. Users need to edit the information the top of the script under “Country name and year of survey”. Detailed guidance on each step is given directly within the R-script.",
     "crumbs": [
       "Implementation Package",
       "8. Computing Indicators"
